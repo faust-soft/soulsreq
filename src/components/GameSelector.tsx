@@ -1,10 +1,10 @@
 import { GAMES } from "../games/registry";
 import type { GameId } from "../games/types";
-import { Dispatch, SetStateAction } from "react";
+import type { Dispatch, SetStateAction } from "react";
 
 type Props = {
   value: GameId;
-  onChange: Dispatch<SetStateAction<GameId>>; // accepts setGameId directly
+  onChange: Dispatch<SetStateAction<GameId>>; // can pass setGameId directly
 };
 
 export default function GameSelector({ value, onChange }: Props) {
