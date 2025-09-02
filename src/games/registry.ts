@@ -1,6 +1,4 @@
 import type { GameAdapter, NormalizedWeapon } from "./types";
-import dsrData from "../data/dsr.json";
-
 
 const pick = (o: any, k: string) => o?.[k] ?? 0;
 
@@ -16,34 +14,33 @@ function loadJsonFile(basename: string): any[] {
   const key = `../data/${basename}.json`;
   const mod = dataModules[key] as any;
   // Vite JSON modules expose `default`
-  return (mod?.default ?? mod) as any[]; 
+  return (mod?.default ?? mod) as any[];
 }
 
 export const GAMES: GameAdapter[] = [
- {
-   id: "DSR",
-   label: "Dark Souls Remastered",
-   attrs: ["str", "dex", "int", "fth"],
-   twoHand: { affected: "str", multiplier: 1.5, rounding: "floor" },
-   attrLabels: { str: "STR", dex: "DEX", int: "INT", fth: "FTH" },
-   normalize: (w: any): NormalizedWeapon => ({
-     id: String(w.id ?? w.name),
-     name: w.name,
-     // ✅ use your "type" as the category / class
-     category: w.type ?? w.category ?? "Weapon",
-     // ✅ use your "req" object and map fai -> fth
-     requirements: {
-       str: (w.req?.str ?? 0),
-       dex: (w.req?.dex ?? 0),
-       int: (w.req?.int ?? 0),
-       fth: (w.req?.fth ?? w.req?.fai ?? 0),
-     },
-    // ✅ honor per-weapon two-hand rule (true/false)
-    twoHandAllowed: w.twoHandRule !== false, 
-  }),
-  loadData: async () => loadJsonFile("dsr"),
- },
-
+  {
+    id: "DSR",
+    label: "Dark Souls Remastered",
+    attrs: ["str", "dex", "int", "fth"],
+    twoHand: { affected: "str", multiplier: 1.5, rounding: "floor" },
+    attrLabels: { str: "STR", dex: "DEX", int: "INT", fth: "FTH" },
+    normalize: (w: any): NormalizedWeapon => ({
+      id: String(w.id ?? w.name),
+      name: w.name,
+      // Use DSR "type" field if present; fall back to "category" or "Weapon"
+      category: w.type ?? w.category ?? "Weapon",
+      // Map DSR `req` (note: some datasets use "fai")
+      requirements: {
+        str: w.req?.str ?? 0,
+        dex: w.req?.dex ?? 0,
+        int: w.req?.int ?? 0,
+        fth: (w.req?.fth ?? w.req?.fai) ?? 0,
+      },
+      // Respect per-weapon override when present (false disables two-hand rule)
+      twoHandRule: w.twoHandRule,
+    }),
+    loadData: async () => loadJsonFile("dsr"),
+  },
 
   {
     id: "DS2",
@@ -64,6 +61,7 @@ export const GAMES: GameAdapter[] = [
     }),
     loadData: async () => loadJsonFile("ds2"),
   },
+
   {
     id: "DS3",
     label: "Dark Souls III",
@@ -75,14 +73,15 @@ export const GAMES: GameAdapter[] = [
       name: w.name,
       category: w.category ?? "Weapon",
       requirements: {
-        str: pick(w.req, "str"),
-        dex: pick(w.req, "dex"),
-        int: pick(w.req, "int"),
-        fth: pick(w.req, "fth"),
+        str: pick(w.req ?? w.requirements, "str"),
+        dex: pick(w.req ?? w.requirements, "dex"),
+        int: pick(w.req ?? w.requirements, "int"),
+        fth: pick(w.req ?? w.requirements, "fth"),
       },
     }),
     loadData: async () => loadJsonFile("ds3"),
   },
+
   {
     id: "BB",
     label: "Bloodborne",
@@ -94,14 +93,15 @@ export const GAMES: GameAdapter[] = [
       name: w.name,
       category: w.category ?? "Trick Weapon",
       requirements: {
-        str: pick(w.req, "str") || pick(w.req, "strength"),
-        skl: pick(w.req, "skl") || pick(w.req, "skill"),
-        bld: pick(w.req, "bld") || pick(w.req, "bloodtinge"),
-        arc: pick(w.req, "arc") || pick(w.req, "arcane"),
+        str: pick(w.req ?? w.requirements, "str") || pick(w.req, "strength"),
+        skl: pick(w.req ?? w.requirements, "skl") || pick(w.req, "skill"),
+        bld: pick(w.req ?? w.requirements, "bld") || pick(w.req, "bloodtinge"),
+        arc: pick(w.req ?? w.requirements, "arc") || pick(w.req, "arcane"),
       },
     }),
     loadData: async () => loadJsonFile("bloodborne"),
   },
+
   {
     id: "ER",
     label: "Elden Ring",
