@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "17f699dbb9dl0i1ohfs2g1wqxwja74",
+    "name": "Battle Axe",
+    "category": "Axe",
+    "requirements": {
+      "str": 12,
+      "dex": 8,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6980f4d4l0i1oi72p2skbsycy5",
+    "name": "Celebrant's Cleaver",
+    "category": "Axe",
+    "requirements": {
+      "str": 12,
+      "dex": 8,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f695c42f0l0i1ohb4cao0qxackpu",
+    "name": "Forked Hatchet",
+    "category": "Axe",
+    "requirements": {
+      "str": 9,
+      "dex": 14,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f699ef109l0i1oj1cqtn6euxicod",
+    "name": "Gargoyle's Black Axe",
+    "category": "Axe",
+    "requirements": {
+      "str": 24,
+      "dex": 8,
+      "int": 0,
+      "fth": 22,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69c35d2cl0i1oh7zuqfb3mdvsj",
+    "name": "Hand Axe",
+    "category": "Axe",
+    "requirements": {
+      "str": 9,
+      "dex": 8,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69aeb629l0i1oifaza9fgo5b598",
+    "name": "Highland Axe",
+    "category": "Axe",
+    "requirements": {
+      "str": 12,
+      "dex": 9,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f699235c3l0i1ohvv1u6vgzp6gxv",
+    "name": "Icerind Hatchet",
+    "category": "Axe",
+    "requirements": {
+      "str": 11,
+      "dex": 16,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69c6388cl0i1ohcb8denrbpuhqs",
+    "name": "Iron Cleaver",
+    "category": "Axe",
+    "requirements": {
+      "str": 15,
+      "dex": 7,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69667224l0i1ohar280aeoxkl6z",
+    "name": "Jawbone Axe",
+    "category": "Axe",
+    "requirements": {
+      "str": 14,
+      "dex": 8,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f694ef2f2l0i1ohsk3qoao9ds943",
+    "name": "Ripple Blade",
+    "category": "Axe",
+    "requirements": {
+      "str": 11,
+      "dex": 11,
+      "int": 0,
+      "fth": 0,
+      "arc": 20
+    }
+  },
+  {
+    "id": "17f6963aeael0i1oiez2moleac31tm",
+    "name": "Rosus' Axe",
+    "category": "Axe",
+    "requirements": {
+      "str": 18,
+      "dex": 10,
+      "int": 18,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69b32182l0i1oi3uyg5fkssmhje",
+    "name": "Sacrificial Axe",
+    "category": "Axe",
+    "requirements": {
+      "str": 16,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69b8f9edl0i1oitj4z0mizqfmf7",
+    "name": "Stormhawk Axe",
+    "category": "Axe",
+    "requirements": {
+      "str": 19,
+      "dex": 15,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6959fcafl0i1oinkyocipl7tiwk",
+    "name": "Warped Axe",
+    "category": "Axe",
+    "requirements": {
+      "str": 24,
+      "dex": 8,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f698da62dl0i1oj2p6wyeh8vo0to",
+    "name": "Hand Ballista",
+    "category": "Ballista",
+    "requirements": {
+      "str": 30,
+      "dex": 14,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69dd8093l0i1oj6x6qo6tg76q8",
+    "name": "Jar Cannon",
+    "category": "Ballista",
+    "requirements": {
+      "str": 34,
+      "dex": 12,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f695afa44l0i1ojioyvh48q16qul",
+    "name": "Albinauric Bow",
+    "category": "Bow",
+    "requirements": {
+      "str": 7,
+      "dex": 18,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f694bf0a0l0i1okt1ao6xjlqrmq9",
+    "name": "Black Bow",
+    "category": "Bow",
+    "requirements": {
+      "str": 9,
+      "dex": 20,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6968148cl0i1ojrunt1o8v6y34f",
+    "name": "Erdtree Bow",
+    "category": "Bow",
+    "requirements": {
+      "str": 8,
+      "dex": 12,
+      "int": 0,
+      "fth": 14,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69dcccffl0i1ojske3hc4ernauj",
+    "name": "Horn Bow",
+    "category": "Bow",
+    "requirements": {
+      "str": 10,
+      "dex": 14,
+      "int": 12,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d12746l0i1ojbzxzgz6gfjsi",
+    "name": "Longbow",
+    "category": "Bow",
+    "requirements": {
+      "str": 9,
+      "dex": 14,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f694cf960l0i1ojybdeac0ffxf5",
+    "name": "Pulley Bow",
+    "category": "Bow",
+    "requirements": {
+      "str": 11,
+      "dex": 11,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f694c87afl0i1ojvhpi9w9ttf21",
+    "name": "Serpent Bow",
+    "category": "Bow",
+    "requirements": {
+      "str": 8,
+      "dex": 15,
+      "int": 0,
+      "fth": 0,
+      "arc": 11
+    }
+  },
+  {
+    "id": "17f69575d35l0i1oktqg9vbv6v8jk",
+    "name": "Bloodhound Claws",
+    "category": "Claw",
+    "requirements": {
+      "str": 10,
+      "dex": 15,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69bb71a6l0i1okvek92tqjqy5w",
+    "name": "Hookclaws",
+    "category": "Claw",
+    "requirements": {
+      "str": 8,
+      "dex": 14,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f694a2cc3l0i1okx1gdd6e5ser2",
+    "name": "Raptor Talons",
+    "category": "Claw",
+    "requirements": {
+      "str": 6,
+      "dex": 14,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f695a80d4l0i1okukv5xwwhqcvn",
+    "name": "Venomous Fang",
+    "category": "Claw",
+    "requirements": {
+      "str": 9,
+      "dex": 9,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69814033l0i1omfg9fbsxwonld",
+    "name": "Godslayer's Greatsword",
+    "category": "Colossal Sword",
+    "requirements": {
+      "str": 20,
+      "dex": 22,
+      "int": 0,
+      "fth": 20,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69ba4b74l0i1omi90yu0wdq7oxu",
+    "name": "Grafted Blade Greatsword",
+    "category": "Colossal Sword",
+    "requirements": {
+      "str": 40,
+      "dex": 14,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6974feb9l0i1olnp61dvex8ugut",
+    "name": "Greatsword",
+    "category": "Colossal Sword",
+    "requirements": {
+      "str": 31,
+      "dex": 12,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6946481al0i1olr8v9h8hxdx439",
+    "name": "Maliketh's Black Blade",
+    "category": "Colossal Sword",
+    "requirements": {
+      "str": 34,
+      "dex": 12,
+      "int": 0,
+      "fth": 20,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f695e24bel0i1omb3kpapbx2zhn",
+    "name": "Royal Greatsword",
+    "category": "Colossal Sword",
+    "requirements": {
+      "str": 26,
+      "dex": 18,
+      "int": 22,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69695544l0i1omj4kim8sh6j5xh",
+    "name": "Ruins Greatsword",
+    "category": "Colossal Sword",
+    "requirements": {
+      "str": 50,
+      "dex": 0,
+      "int": 16,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d917e2l0i1omllp8sfqfor6g",
+    "name": "Starscourge Greatsword",
+    "category": "Colossal Sword",
+    "requirements": {
+      "str": 38,
+      "dex": 12,
+      "int": 15,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f694bf77bl0i1on5kwkodf1d6fkp",
+    "name": "Troll Knight's Sword",
+    "category": "Colossal Sword",
+    "requirements": {
+      "str": 20,
+      "dex": 14,
+      "int": 18,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d62fd0l0i1olqu110xlsqhiuo",
+    "name": "Troll's Golden Sword",
+    "category": "Colossal Sword",
+    "requirements": {
+      "str": 29,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69c91071l0i1olmq0iokptn3hftg",
+    "name": "Watchdog's Greatsword",
+    "category": "Colossal Sword",
+    "requirements": {
+      "str": 30,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69848f3fl0i1olspoavxf69m81b",
+    "name": "Zweihander",
+    "category": "Colossal Sword",
+    "requirements": {
+      "str": 19,
+      "dex": 11,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f698fbfe3l0i1onysor0mpgg5yes",
+    "name": "Axe Of Godfrey",
+    "category": "Colossal Weapon",
+    "requirements": {
+      "str": 42,
+      "dex": 14,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69469b4bl0i1oo41w96vla79ii",
+    "name": "Dragon Greatclaw",
+    "category": "Colossal Weapon",
+    "requirements": {
+      "str": 30,
+      "dex": 14,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69a33564l0i1ons3nh18t7o8nt",
+    "name": "Duelist Greataxe",
+    "category": "Colossal Weapon",
+    "requirements": {
+      "str": 30,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69b35d86l0i1ongc5nz2ucwimp3",
+    "name": "Envoy's Greathorn",
+    "category": "Colossal Weapon",
+    "requirements": {
+      "str": 28,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6955e72fl0i1oo4m9kmv2xl4xyk",
+    "name": "Fallingstar Beast Jaw",
+    "category": "Colossal Weapon",
+    "requirements": {
+      "str": 34,
+      "dex": 12,
+      "int": 20,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f696bf334l0i1oog74vy08h3bq4g",
+    "name": "Ghiza's Wheel",
+    "category": "Colossal Weapon",
+    "requirements": {
+      "str": 28,
+      "dex": 18,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f698d50ael0i1ooor7m3e3wm1ksn",
+    "name": "Giant-crusher",
+    "category": "Colossal Weapon",
+    "requirements": {
+      "str": 60,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69bd8124l0i1oouetnbxq1rzht",
+    "name": "Golem's Halberd",
+    "category": "Colossal Weapon",
+    "requirements": {
+      "str": 36,
+      "dex": 14,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f697c039cl0i1onh4jupgan4exzn",
+    "name": "Great Club",
+    "category": "Colossal Weapon",
+    "requirements": {
+      "str": 35,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69a7dcc1l0i1oniofe8yzb14ixf",
+    "name": "Prelate's Inferno Crozier",
+    "category": "Colossal Weapon",
+    "requirements": {
+      "str": 45,
+      "dex": 8,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f698e7e0dl0i1op5tj0nigfcedar",
+    "name": "Rotten Greataxe",
+    "category": "Colossal Weapon",
+    "requirements": {
+      "str": 30,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f695f2cdal0i1oozpti2yx0wz51",
+    "name": "Rotten Staff",
+    "category": "Colossal Weapon",
+    "requirements": {
+      "str": 34,
+      "dex": 8,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69dc1749l0i1ooc0npawnyrf3d",
+    "name": "Staff Of The Avatar",
+    "category": "Colossal Weapon",
+    "requirements": {
+      "str": 34,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f699e1bc7l0i1oov82brr35n1ie4",
+    "name": "Troll's Hammer",
+    "category": "Colossal Weapon",
+    "requirements": {
+      "str": 28,
+      "dex": 8,
+      "int": 0,
+      "fth": 10,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69573764l0i1ondtdlwail0224s",
+    "name": "Watchdog's Staff",
+    "category": "Colossal Weapon",
+    "requirements": {
+      "str": 34,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d24aefl0i1oq9249e558exazo",
+    "name": "Arbalest",
+    "category": "Crossbow",
+    "requirements": {
+      "str": 18,
+      "dex": 12,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f697ea1a4l0i1oq4te6lr8su01zs",
+    "name": "Crepus's Black-key Crossbow",
+    "category": "Crossbow",
+    "requirements": {
+      "str": 14,
+      "dex": 16,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69ac9f84l0i1opqor2ybht92g9q",
+    "name": "Full Moon Crossbow",
+    "category": "Crossbow",
+    "requirements": {
+      "str": 10,
+      "dex": 10,
+      "int": 14,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69b95f86l0i1opjf3ra8xpdsovo",
+    "name": "Heavy Crossbow",
+    "category": "Crossbow",
+    "requirements": {
+      "str": 14,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69832d19l0i1opiocf2s1b0z8f8",
+    "name": "Light Crossbow",
+    "category": "Crossbow",
+    "requirements": {
+      "str": 12,
+      "dex": 8,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69744d27l0i1opnrem0400k2gsd",
+    "name": "Pulley Crossbow",
+    "category": "Crossbow",
+    "requirements": {
+      "str": 16,
+      "dex": 16,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69a1d79cl0i1opcz0k9omitov0n",
+    "name": "Soldier's Crossbow",
+    "category": "Crossbow",
+    "requirements": {
+      "str": 10,
+      "dex": 8,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f695a31bbl0i1orafp8agcajnhoq",
+    "name": "Beastman's Cleaver",
+    "category": "Curved Greatsword",
+    "requirements": {
+      "str": 25,
+      "dex": 14,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f697d9a68l0i1oqeay5e8bb4oc3g",
+    "name": "Bloodhound's Fang",
+    "category": "Curved Greatsword",
+    "requirements": {
+      "str": 18,
+      "dex": 17,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69c95aedl0i1oqkej3b4sanu0ho",
+    "name": "Dismounter",
+    "category": "Curved Greatsword",
+    "requirements": {
+      "str": 19,
+      "dex": 16,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6959a5afl0i1oqpihevj06l1n6f",
+    "name": "Magma Wyrm's Scalesword",
+    "category": "Curved Greatsword",
+    "requirements": {
+      "str": 24,
+      "dex": 15,
+      "int": 0,
+      "fth": 18,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d7bd32l0i1or3zgprsj3kycze",
+    "name": "Monk's Flameblade",
+    "category": "Curved Greatsword",
+    "requirements": {
+      "str": 18,
+      "dex": 18,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f695e77b1l0i1orcoyco0l9fpi6j",
+    "name": "Morgott's Cursed Sword",
+    "category": "Curved Greatsword",
+    "requirements": {
+      "str": 14,
+      "dex": 35,
+      "int": 0,
+      "fth": 0,
+      "arc": 17
+    }
+  },
+  {
+    "id": "17f699cd816l0i1oqxnpfv24k6jntj",
+    "name": "Omen Cleaver",
+    "category": "Curved Greatsword",
+    "requirements": {
+      "str": 19,
+      "dex": 16,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d4ff4fl0i1oq3u3wuk37p9n8y",
+    "name": "Onyx Lord's Greatsword",
+    "category": "Curved Greatsword",
+    "requirements": {
+      "str": 20,
+      "dex": 16,
+      "int": 16,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6951db06l0i1or16gi01imzlv6v",
+    "name": "Zamor Curved Sword",
+    "category": "Curved Greatsword",
+    "requirements": {
+      "str": 16,
+      "dex": 18,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d22df5l0i1os1vzj7jka683f",
+    "name": "Beastman's Curved Sword",
+    "category": "Curved Sword",
+    "requirements": {
+      "str": 13,
+      "dex": 11,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f695e8a95l0i1osvuh2s392bslgf",
+    "name": "Eclipse Shotel",
+    "category": "Curved Sword",
+    "requirements": {
+      "str": 10,
+      "dex": 25,
+      "int": 0,
+      "fth": 30,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69ccaa4al0i1orhsuhv0ll0uko",
+    "name": "Falchion",
+    "category": "Curved Sword",
+    "requirements": {
+      "str": 9,
+      "dex": 13,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f694e2077l0i1osqjan4fnttniyc",
+    "name": "Flowing Curved Sword",
+    "category": "Curved Sword",
+    "requirements": {
+      "str": 9,
+      "dex": 17,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69ba85cal0i1ou17700c5cqef3i",
+    "name": "Grossmesser",
+    "category": "Curved Sword",
+    "requirements": {
+      "str": 14,
+      "dex": 12,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69908917l0i1os577fp2a0c8n8w",
+    "name": "Magma Blade",
+    "category": "Curved Sword",
+    "requirements": {
+      "str": 9,
+      "dex": 15,
+      "int": 0,
+      "fth": 16,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69a28357l0i1otefec4u3qjtjve",
+    "name": "Mantis Blade",
+    "category": "Curved Sword",
+    "requirements": {
+      "str": 10,
+      "dex": 12,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69913ab4l0i1otlpefqm0g08exp",
+    "name": "Nox Flowing Sword",
+    "category": "Curved Sword",
+    "requirements": {
+      "str": 8,
+      "dex": 15,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d7cf23l0i1osx8dg6r5dybhck",
+    "name": "Scavenger's Curved Sword",
+    "category": "Curved Sword",
+    "requirements": {
+      "str": 9,
+      "dex": 14,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f695c221bl0i1oti2aqelikacuj6",
+    "name": "Scimitar",
+    "category": "Curved Sword",
+    "requirements": {
+      "str": 7,
+      "dex": 13,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6977fc1al0i1oswu20i8xjh9liqj",
+    "name": "Serpent-god's Curved Sword",
+    "category": "Curved Sword",
+    "requirements": {
+      "str": 13,
+      "dex": 9,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69cbbed5l0i1orz2seh3xldf6b",
+    "name": "Shamshir",
+    "category": "Curved Sword",
+    "requirements": {
+      "str": 7,
+      "dex": 13,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69498ae3l0i1os4m19u5e478yu2",
+    "name": "Shotel",
+    "category": "Curved Sword",
+    "requirements": {
+      "str": 9,
+      "dex": 19,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69884882l0i1pawmnlwtwvbmm8",
+    "name": "Vulgar Militia Shotel",
+    "category": "Curved Sword",
+    "requirements": {
+      "str": 14,
+      "dex": 16,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f695b60e8l0i1osrls9u8la9bek",
+    "name": "Wing Of Astel",
+    "category": "Curved Sword",
+    "requirements": {
+      "str": 7,
+      "dex": 17,
+      "int": 20,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69bb7d32l0i1ou85ft99zwecdel",
+    "name": "Black Knife",
+    "category": "Dagger",
+    "requirements": {
+      "str": 8,
+      "dex": 12,
+      "int": 0,
+      "fth": 18,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69619348l0i1owhkpnh4pq8aju",
+    "name": "Blade Of Calling",
+    "category": "Dagger",
+    "requirements": {
+      "str": 6,
+      "dex": 13,
+      "int": 0,
+      "fth": 15,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69568512l0i1owirx8rozwu94e",
+    "name": "Bloodstained Dagger",
+    "category": "Dagger",
+    "requirements": {
+      "str": 9,
+      "dex": 12,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69538376l0i1ouzstk2t2dod57i",
+    "name": "Celebrant's Sickle",
+    "category": "Dagger",
+    "requirements": {
+      "str": 6,
+      "dex": 11,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6986cfc4l0i1ovvz1l7bcfxqjc9",
+    "name": "Cinquedea",
+    "category": "Dagger",
+    "requirements": {
+      "str": 10,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f695c23a5l0i1ourjc45t3ot8y0r",
+    "name": "Crystal Knife",
+    "category": "Dagger",
+    "requirements": {
+      "str": 8,
+      "dex": 12,
+      "int": 9,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f699693fbl0i1otqw0glcy3u6fp0k",
+    "name": "Dagger",
+    "category": "Dagger",
+    "requirements": {
+      "str": 5,
+      "dex": 9,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69c27224l0i1owfsl4rcc4fgbpe",
+    "name": "Erdsteel Dagger",
+    "category": "Dagger",
+    "requirements": {
+      "str": 7,
+      "dex": 12,
+      "int": 0,
+      "fth": 14,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69756a35l0i1ov1vi3cb4201sxa",
+    "name": "Glintstone Kris",
+    "category": "Dagger",
+    "requirements": {
+      "str": 5,
+      "dex": 12,
+      "int": 16,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6994d16cl0i1ovl2w2asf8hogd",
+    "name": "Great Knife",
+    "category": "Dagger",
+    "requirements": {
+      "str": 6,
+      "dex": 12,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69dba532l0i1ow5zn175dgtjn5d",
+    "name": "Ivory Sickle",
+    "category": "Dagger",
+    "requirements": {
+      "str": 6,
+      "dex": 11,
+      "int": 13,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69aa066dl0i1ouek4e8nmlybotp",
+    "name": "Miséricorde",
+    "category": "Dagger",
+    "requirements": {
+      "str": 7,
+      "dex": 12,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6959f1adl0i1ou9x8vs08p3u09g",
+    "name": "Parrying Dagger",
+    "category": "Dagger",
+    "requirements": {
+      "str": 5,
+      "dex": 14,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d42419l0i1oujp0m1csaaqdanf",
+    "name": "Reduvia",
+    "category": "Dagger",
+    "requirements": {
+      "str": 5,
+      "dex": 13,
+      "int": 0,
+      "fth": 0,
+      "arc": 13
+    }
+  },
+  {
+    "id": "17f69d58e08l0i1ovazqw2hxmxgdc",
+    "name": "Scorpion's Stinger",
+    "category": "Dagger",
+    "requirements": {
+      "str": 6,
+      "dex": 12,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69a01b63l0i1ovq80hzuqcz211pn",
+    "name": "Wakizashi",
+    "category": "Dagger",
+    "requirements": {
+      "str": 9,
+      "dex": 13,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6961de5dl0i1ox1mrfqv4sj0p5",
+    "name": "Caestus",
+    "category": "Fist",
+    "requirements": {
+      "str": 8,
+      "dex": 8,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69de7e01l0i1oxypr2s4rzvhwnj",
+    "name": "Cipher Pata",
+    "category": "Fist",
+    "requirements": {
+      "str": 0,
+      "dex": 0,
+      "int": 0,
+      "fth": 30,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f695cc915l0i1oxrft0i2enqepoe",
+    "name": "Clinging Bone",
+    "category": "Fist",
+    "requirements": {
+      "str": 8,
+      "dex": 22,
+      "int": 0,
+      "fth": 0,
+      "arc": 16
+    }
+  },
+  {
+    "id": "17f69598b19l0i1ox85gn7f2sgqpad",
+    "name": "Grafted Dragon",
+    "category": "Fist",
+    "requirements": {
+      "str": 20,
+      "dex": 14,
+      "int": 0,
+      "fth": 16,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69bdc512l0i1ox8z0tvmo6500lc",
+    "name": "Iron Ball",
+    "category": "Fist",
+    "requirements": {
+      "str": 11,
+      "dex": 8,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f699730a1l0i1oxo8gfllal3rur",
+    "name": "Katar",
+    "category": "Fist",
+    "requirements": {
+      "str": 8,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69822bd8l0i1owzfs8dkv6m0tk",
+    "name": "Spiked Caestus",
+    "category": "Fist",
+    "requirements": {
+      "str": 8,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6958d2a1l0i1oxak1ho6m56edgwi",
+    "name": "Star Fist",
+    "category": "Fist",
+    "requirements": {
+      "str": 12,
+      "dex": 8,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69912ed2l0i1oxzumweqnzkb2tl",
+    "name": "Veteran's Prosthesis",
+    "category": "Fist",
+    "requirements": {
+      "str": 15,
+      "dex": 12,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6992e218l0i1oykgr0udpp09p3",
+    "name": "Bastard's Stars",
+    "category": "Flail",
+    "requirements": {
+      "str": 8,
+      "dex": 22,
+      "int": 22,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69c119f0l0i1oz3m7cwvc1jqa6w",
+    "name": "Chainlink Flail",
+    "category": "Flail",
+    "requirements": {
+      "str": 18,
+      "dex": 12,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f695341ecl0i1oyf1mscsd2tuuid",
+    "name": "Family Heads",
+    "category": "Flail",
+    "requirements": {
+      "str": 8,
+      "dex": 18,
+      "int": 16,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69552774l0i1oyd6lwf3vlq0nhn",
+    "name": "Flail",
+    "category": "Flail",
+    "requirements": {
+      "str": 10,
+      "dex": 18,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d96e43l0i1oy4z04zq0mvzanru",
+    "name": "Nightrider Flail",
+    "category": "Flail",
+    "requirements": {
+      "str": 10,
+      "dex": 24,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69dea799l0i1p0jj1dc7gc9ooad",
+    "name": "Academy Glintstone Staff",
+    "category": "Glintstone Staff",
+    "requirements": {
+      "str": 6,
+      "dex": 0,
+      "int": 28,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d0ae08l0i1p06vghydco2o29u",
+    "name": "Albinauric Staff",
+    "category": "Glintstone Staff",
+    "requirements": {
+      "str": 6,
+      "dex": 0,
+      "int": 10,
+      "fth": 0,
+      "arc": 12
+    }
+  },
+  {
+    "id": "17f69b2786dl0i1ozt246l3i5ng1n3",
+    "name": "Astrologer's Staff",
+    "category": "Glintstone Staff",
+    "requirements": {
+      "str": 7,
+      "dex": 0,
+      "int": 16,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f695d9e5dl0i1p0otrlfxvt1g9n9",
+    "name": "Azur's Glintstone Staff",
+    "category": "Glintstone Staff",
+    "requirements": {
+      "str": 10,
+      "dex": 0,
+      "int": 52,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69bfdbcdl0i1ozxotkx767c6z5e",
+    "name": "Carian Glintblade Staff",
+    "category": "Glintstone Staff",
+    "requirements": {
+      "str": 6,
+      "dex": 12,
+      "int": 22,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6967c49cl0i1p0mowlnjq4ufrl",
+    "name": "Carian Glintstone Staff",
+    "category": "Glintstone Staff",
+    "requirements": {
+      "str": 6,
+      "dex": 8,
+      "int": 24,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6953c900l0i1ozjupz92p99yzi",
+    "name": "Carian Regal Scepter",
+    "category": "Glintstone Staff",
+    "requirements": {
+      "str": 8,
+      "dex": 10,
+      "int": 60,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f699946f4l0i1oz2nopkhsi7qz5p",
+    "name": "Crystal Staff",
+    "category": "Glintstone Staff",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 48,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6960232el0i1oz9tjni3i1ghuy",
+    "name": "Demi-human Queen's Staff",
+    "category": "Glintstone Staff",
+    "requirements": {
+      "str": 6,
+      "dex": 0,
+      "int": 10,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6960a2b7l0i1ozuak6b667gyiqq",
+    "name": "Digger's Staff",
+    "category": "Glintstone Staff",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 12,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d7a8dcl0i1oz4x85o3hhhl069",
+    "name": "Gelmir Glintstone Staff",
+    "category": "Glintstone Staff",
+    "requirements": {
+      "str": 6,
+      "dex": 0,
+      "int": 14,
+      "fth": 14,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69930219l0i1oytgbre6o33dti",
+    "name": "Glintstone Staff",
+    "category": "Glintstone Staff",
+    "requirements": {
+      "str": 6,
+      "dex": 0,
+      "int": 10,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f695a0063l0i1p0qdogpnbjb7xnf",
+    "name": "Lusat's Glintstone Staff",
+    "category": "Glintstone Staff",
+    "requirements": {
+      "str": 10,
+      "dex": 0,
+      "int": 52,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6995e6eel0i1p0ujryl4uvjkiji",
+    "name": "Meteorite Staff",
+    "category": "Glintstone Staff",
+    "requirements": {
+      "str": 6,
+      "dex": 0,
+      "int": 18,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f697c8bb1l0i1ozxd3885l5ejmcw",
+    "name": "Prince Of Death's Star",
+    "category": "Glintstone Staff",
+    "requirements": {
+      "str": 6,
+      "dex": 0,
+      "int": 18,
+      "fth": 18,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69594fd1l0i1p1ad5rxu1z3y9xt",
+    "name": "Rotten Crystal Staff",
+    "category": "Glintstone Staff",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 48,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69c940f6l0i1p1noaxeazv2s6xo",
+    "name": "Staff Of Loss",
+    "category": "Glintstone Staff",
+    "requirements": {
+      "str": 6,
+      "dex": 12,
+      "int": 14,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f698cdcd5l0i1p17cuvrv89tk1t",
+    "name": "Staff Of The Guilty",
+    "category": "Glintstone Staff",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 12,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6965c8c7l0i1p4ca48460ednlrf",
+    "name": "Lance",
+    "category": "Great Spear",
+    "requirements": {
+      "str": 20,
+      "dex": 14,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f696abc5el0i1p3mxdl2nf7g3wsu",
+    "name": "Mohgwyn's Sacred Spear",
+    "category": "Great Spear",
+    "requirements": {
+      "str": 24,
+      "dex": 14,
+      "int": 0,
+      "fth": 0,
+      "arc": 27
+    }
+  },
+  {
+    "id": "17f69b0a1dcl0i1p3zvfkgywidwr2",
+    "name": "Serpent-hunter",
+    "category": "Great Spear",
+    "requirements": {
+      "str": 0,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6948ce42l0i1p3rnqwtrftgh5gg",
+    "name": "Siluria's Tree",
+    "category": "Great Spear",
+    "requirements": {
+      "str": 27,
+      "dex": 13,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6995c642l0i1p4de8g3enadtufs",
+    "name": "Treespear",
+    "category": "Great Spear",
+    "requirements": {
+      "str": 15,
+      "dex": 22,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6949e9bbl0i1p3z882yhinlaqxj",
+    "name": "Vyke's War Spear",
+    "category": "Great Spear",
+    "requirements": {
+      "str": 16,
+      "dex": 20,
+      "int": 0,
+      "fth": 18,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69a0a0del0i1p1ze2uhbxr6enmw",
+    "name": "Axe Of Godrick",
+    "category": "Greataxe",
+    "requirements": {
+      "str": 34,
+      "dex": 22,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f698a1aa2l0i1p2ttzr3kqvtkrqo",
+    "name": "Butchering Knife",
+    "category": "Greataxe",
+    "requirements": {
+      "str": 16,
+      "dex": 20,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6962ddb3l0i1p1wgacx8m0mpy3c",
+    "name": "Crescent Moon Axe",
+    "category": "Greataxe",
+    "requirements": {
+      "str": 25,
+      "dex": 15,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69bd922al0i1p2frazvyrv41tge",
+    "name": "Executioner's Greataxe",
+    "category": "Greataxe",
+    "requirements": {
+      "str": 34,
+      "dex": 8,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69aff1efl0i1p2xlel2i8mhvc2o",
+    "name": "Gargoyle's Great Axe",
+    "category": "Greataxe",
+    "requirements": {
+      "str": 24,
+      "dex": 8,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69c517f3l0i1p1j5gib5p31b06c",
+    "name": "Great Omenkiller Cleaver",
+    "category": "Greataxe",
+    "requirements": {
+      "str": 23,
+      "dex": 12,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69932567l0i1p1g57mgpbxaj4hw",
+    "name": "Greataxe",
+    "category": "Greataxe",
+    "requirements": {
+      "str": 30,
+      "dex": 8,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69822237l0i1p270w3dlqvx3kil",
+    "name": "Longhaft Axe",
+    "category": "Greataxe",
+    "requirements": {
+      "str": 24,
+      "dex": 8,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f696240e3l0i1p2l8nsbm1tuf3kq",
+    "name": "Rusted Anchor",
+    "category": "Greataxe",
+    "requirements": {
+      "str": 26,
+      "dex": 9,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f699a5bafl0i1p2louzpgjcml2zi",
+    "name": "Winged Greathorn",
+    "category": "Greataxe",
+    "requirements": {
+      "str": 30,
+      "dex": 20,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69727d35l0i1p3af7vawzb2qx4v",
+    "name": "Erdtree Greatbow",
+    "category": "Greatbow",
+    "requirements": {
+      "str": 20,
+      "dex": 14,
+      "int": 0,
+      "fth": 14,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69ba8511l0i1p3aular3j6um6ed",
+    "name": "Golem Greatbow",
+    "category": "Greatbow",
+    "requirements": {
+      "str": 24,
+      "dex": 18,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6967c4f3l0i1p3l1xull5qamw2",
+    "name": "Greatbow",
+    "category": "Greatbow",
+    "requirements": {
+      "str": 20,
+      "dex": 20,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f694ec20bl0i1p34h48fycewmkr1",
+    "name": "Lion Greatbow",
+    "category": "Greatbow",
+    "requirements": {
+      "str": 22,
+      "dex": 18,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69b33aafl0i12fqkwzuaznegji",
+    "name": "Ant's Skull Plate",
+    "category": "Greatshield",
+    "requirements": {
+      "str": 28,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69ac13ecl0i12e68qij6rgf53vp",
+    "name": "Briar Greatshield",
+    "category": "Greatshield",
+    "requirements": {
+      "str": 21,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6981fc6cl0i12fkq4jfcsautbiv",
+    "name": "Crossed-tree Towershield",
+    "category": "Greatshield",
+    "requirements": {
+      "str": 30,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f695a9c70l0i12dg13mf7v9clac",
+    "name": "Crucible Hornshield",
+    "category": "Greatshield",
+    "requirements": {
+      "str": 26,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6998f8b8l0i12dhelzp1oi1uyv",
+    "name": "Distinguished Greatshield",
+    "category": "Greatshield",
+    "requirements": {
+      "str": 32,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f693c793el0i12deqfa24mgi3ik7",
+    "name": "Dragon Towershield",
+    "category": "Greatshield",
+    "requirements": {
+      "str": 30,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69872931l0i12dy19gq5ij75yoe",
+    "name": "Dragonclaw Shield",
+    "category": "Greatshield",
+    "requirements": {
+      "str": 28,
+      "dex": 12,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69ae9ee5l0i12fyuk6a06fvdcq",
+    "name": "Eclipse Crest Greatshield",
+    "category": "Greatshield",
+    "requirements": {
+      "str": 0,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f694b1b61l0i12e5nf59cb5qk7vu",
+    "name": "Erdtree Greatshield",
+    "category": "Greatshield",
+    "requirements": {
+      "str": 30,
+      "dex": 0,
+      "int": 0,
+      "fth": 12,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69ac7946l0i12emsgkbeuohu93n",
+    "name": "Fingerprint Stone Shield",
+    "category": "Greatshield",
+    "requirements": {
+      "str": 48,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f695ae9edl0i12glt4xotvobrl0m",
+    "name": "Gilded Greatshield",
+    "category": "Greatshield",
+    "requirements": {
+      "str": 36,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6989b386l0i12e4lob57bdw1rqq",
+    "name": "Golden Beast Crest Shield",
+    "category": "Greatshield",
+    "requirements": {
+      "str": 24,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f698cf6d3l0i12gnjnwa5wdqlqj",
+    "name": "Golden Greatshield",
+    "category": "Greatshield",
+    "requirements": {
+      "str": 34,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f698f9c1fl0i12go9pgbh4sdw0zs",
+    "name": "Haligtree Crest Greatshield",
+    "category": "Greatshield",
+    "requirements": {
+      "str": 36,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f693ca65dl0i12eu7yz6cf3nexe",
+    "name": "Icon Shield",
+    "category": "Greatshield",
+    "requirements": {
+      "str": 22,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69bfaff2l0i12frzztam4cpn7d",
+    "name": "Inverted Hawk Towershield",
+    "category": "Greatshield",
+    "requirements": {
+      "str": 30,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f699569f2l0i12e91gm212p52kz4",
+    "name": "Jellyfish Shield",
+    "category": "Greatshield",
+    "requirements": {
+      "str": 20,
+      "dex": 14,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69b9df0bl0i12h4ss3ka8zvpcoc",
+    "name": "Lordsworn's Shield",
+    "category": "Greatshield",
+    "requirements": {
+      "str": 16,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f695ce77cl0i12fbgg8t0smpvg3n",
+    "name": "Manor Towershield",
+    "category": "Greatshield",
+    "requirements": {
+      "str": 30,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69378e1dl0i12exgnluqgflkbi",
+    "name": "One-eyed Shield",
+    "category": "Greatshield",
+    "requirements": {
+      "str": 36,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69a1afefl0i12fozrc1tnhg20is",
+    "name": "Redmane Greatshield",
+    "category": "Greatshield",
+    "requirements": {
+      "str": 30,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69c7916el0i12ey2p0l7xj09nis",
+    "name": "Spiked Palisade Shield",
+    "category": "Greatshield",
+    "requirements": {
+      "str": 20,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69797ac7l0i12ew4eqk33suyj17",
+    "name": "Visage Shield",
+    "category": "Greatshield",
+    "requirements": {
+      "str": 44,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f699949b2l0i12gqzulu6fgih91o",
+    "name": "Wooden Greatshield",
+    "category": "Greatshield",
+    "requirements": {
+      "str": 14,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69a3766al0i1p5jn27ea0xazje3",
+    "name": "Alabaster Lord's Sword",
+    "category": "Greatsword",
+    "requirements": {
+      "str": 16,
+      "dex": 12,
+      "int": 18,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6961c7efl0i1p5tbamvedpnmzx4",
+    "name": "Banished Knight's Greatsword",
+    "category": "Greatsword",
+    "requirements": {
+      "str": 17,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69a8d915l0i1p4kqv889wy4d4vc",
+    "name": "Bastard Sword",
+    "category": "Greatsword",
+    "requirements": {
+      "str": 16,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69a18c12l0i1p6irjv6m8ue2f5",
+    "name": "Blasphemous Blade",
+    "category": "Greatsword",
+    "requirements": {
+      "str": 22,
+      "dex": 15,
+      "int": 0,
+      "fth": 21,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d938dal0i1p7cva71qgpwuo6w",
+    "name": "Claymore",
+    "category": "Greatsword",
+    "requirements": {
+      "str": 16,
+      "dex": 13,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69aa76b3l0i1p5w4xa7tbhq0qit",
+    "name": "Dark Moon Greatsword",
+    "category": "Greatsword",
+    "requirements": {
+      "str": 16,
+      "dex": 11,
+      "int": 38,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d8a812l0i1p7s9xmq3zqql69",
+    "name": "Death's Poker",
+    "category": "Greatsword",
+    "requirements": {
+      "str": 15,
+      "dex": 17,
+      "int": 11,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69958ad2l0i1p5cvrojl4ty52zs",
+    "name": "Flamberge",
+    "category": "Greatsword",
+    "requirements": {
+      "str": 15,
+      "dex": 14,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6995269el0i1p4oqujogklpkccd",
+    "name": "Forked Greatsword",
+    "category": "Greatsword",
+    "requirements": {
+      "str": 14,
+      "dex": 16,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d4d41el0i1p7vs0vjortsg7oc",
+    "name": "Gargoyle's Blackblade",
+    "category": "Greatsword",
+    "requirements": {
+      "str": 18,
+      "dex": 10,
+      "int": 0,
+      "fth": 22,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d64ed7l0i1p7jmmtge0ag3i4",
+    "name": "Gargoyle's Greatsword",
+    "category": "Greatsword",
+    "requirements": {
+      "str": 18,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69c19b1al0i1p77ig6czaoxosd",
+    "name": "Golden Order Greatsword",
+    "category": "Greatsword",
+    "requirements": {
+      "str": 16,
+      "dex": 21,
+      "int": 0,
+      "fth": 18,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69a34499l0i1p69mtmqzfrxa7b",
+    "name": "Helphen's Steeple",
+    "category": "Greatsword",
+    "requirements": {
+      "str": 19,
+      "dex": 10,
+      "int": 22,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f698d80fal0i1p4tl3fnkays6xcs",
+    "name": "Iron Greatsword",
+    "category": "Greatsword",
+    "requirements": {
+      "str": 18,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f696c3869l0i1p57ui4dkke1j2lb",
+    "name": "Knight's Greatsword",
+    "category": "Greatsword",
+    "requirements": {
+      "str": 16,
+      "dex": 12,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69c84a0fl0i1p53njeg78jpm83g",
+    "name": "Lordsworn's Greatsword",
+    "category": "Greatsword",
+    "requirements": {
+      "str": 16,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69af1239l0i1p6tbsakd85i69of",
+    "name": "Marais Executioner's Sword",
+    "category": "Greatsword",
+    "requirements": {
+      "str": 24,
+      "dex": 14,
+      "int": 0,
+      "fth": 0,
+      "arc": 23
+    }
+  },
+  {
+    "id": "17f69914456l0i1p5gc8d6bi642ubp",
+    "name": "Ordovis's Greatsword",
+    "category": "Greatsword",
+    "requirements": {
+      "str": 25,
+      "dex": 13,
+      "int": 0,
+      "fth": 15,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6971ad09l0i1p698i6hg5fqq3ir",
+    "name": "Sacred Relic Sword",
+    "category": "Greatsword",
+    "requirements": {
+      "str": 14,
+      "dex": 24,
+      "int": 0,
+      "fth": 22,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6998ff30l0i1p6uu73zw546f13u",
+    "name": "Sword Of Milos",
+    "category": "Greatsword",
+    "requirements": {
+      "str": 15,
+      "dex": 19,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f698a6131l0i1p8u3hufx2lc7nr",
+    "name": "Banished Knight's Halberd",
+    "category": "Halberd",
+    "requirements": {
+      "str": 14,
+      "dex": 12,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6991e5c5l0i1p8vp4fgo45r89ky",
+    "name": "Commander's Standard",
+    "category": "Halberd",
+    "requirements": {
+      "str": 24,
+      "dex": 14,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69c95d75l0i1paugymrcjquua4q",
+    "name": "Dragon Halberd",
+    "category": "Halberd",
+    "requirements": {
+      "str": 22,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69a5df3cl0i1pboo1un3fj711tg",
+    "name": "Gargoyle's Black Halberd",
+    "category": "Halberd",
+    "requirements": {
+      "str": 26,
+      "dex": 10,
+      "int": 0,
+      "fth": 22,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69c725a8l0i1pay72k5pcw8pvc6",
+    "name": "Gargoyle's Halberd",
+    "category": "Halberd",
+    "requirements": {
+      "str": 26,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69afd8dcl0i1p9y9s33uzxd9fek",
+    "name": "Glaive",
+    "category": "Halberd",
+    "requirements": {
+      "str": 18,
+      "dex": 15,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6973b001l0i1p9v6qffivf6eh3",
+    "name": "Golden Halberd",
+    "category": "Halberd",
+    "requirements": {
+      "str": 30,
+      "dex": 14,
+      "int": 0,
+      "fth": 12,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6984431bl0i1papfl53ticoff4p",
+    "name": "Guardian's Swordspear",
+    "category": "Halberd",
+    "requirements": {
+      "str": 17,
+      "dex": 16,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f696b2b4al0i1p8ly2eaf2vbepd6",
+    "name": "Halberd",
+    "category": "Halberd",
+    "requirements": {
+      "str": 14,
+      "dex": 12,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69869f89l0i1panhih63470rmve",
+    "name": "Loretta's War Sickle",
+    "category": "Halberd",
+    "requirements": {
+      "str": 20,
+      "dex": 15,
+      "int": 20,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69a4b70bl0i1p8n5ha1qpziq1xg",
+    "name": "Lucerne",
+    "category": "Halberd",
+    "requirements": {
+      "str": 15,
+      "dex": 12,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6962a77bl0i1p9nswfravtg3kil",
+    "name": "Nightrider Glaive",
+    "category": "Halberd",
+    "requirements": {
+      "str": 26,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6998e2a7l0i1p8fxd6bbyw83nts",
+    "name": "Pest's Glaive",
+    "category": "Halberd",
+    "requirements": {
+      "str": 13,
+      "dex": 13,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f694ee743l0i1p9ku7l29fh314nu",
+    "name": "Ripple Crescent Halberd",
+    "category": "Halberd",
+    "requirements": {
+      "str": 12,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6959d46el0i1p9thpf3fa8syut",
+    "name": "Vulgar Militia Saw",
+    "category": "Halberd",
+    "requirements": {
+      "str": 15,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f694bb057l0i1pc726b2jy8z22n",
+    "name": "Club",
+    "category": "Hammer",
+    "requirements": {
+      "str": 10,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f696774f3l0i1pbvceygv4mkw0d7",
+    "name": "Curved Club",
+    "category": "Hammer",
+    "requirements": {
+      "str": 11,
+      "dex": 7,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f695571bbl0i1pdcktfpfya20p2",
+    "name": "Envoy's Horn",
+    "category": "Hammer",
+    "requirements": {
+      "str": 10,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69a22461l0i1pcneoqys4gxbav",
+    "name": "Hammer",
+    "category": "Hammer",
+    "requirements": {
+      "str": 14,
+      "dex": 7,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69a7bbbcl0i1pbo28bmzr0t6jyp",
+    "name": "Mace",
+    "category": "Hammer",
+    "requirements": {
+      "str": 12,
+      "dex": 7,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6976dccbl0i1pdxa3y1gcjkryhw",
+    "name": "Marika's Hammer",
+    "category": "Hammer",
+    "requirements": {
+      "str": 20,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69b676c4l0i1pcy677icvt5r8m9",
+    "name": "Monk's Flamemace",
+    "category": "Hammer",
+    "requirements": {
+      "str": 13,
+      "dex": 13,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d6e6e0l0i1pctcpzxxaoxt1wc",
+    "name": "Morning Star",
+    "category": "Hammer",
+    "requirements": {
+      "str": 12,
+      "dex": 8,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69b63034l0i1pdhypowirop759",
+    "name": "Nox Flowing Hammer",
+    "category": "Hammer",
+    "requirements": {
+      "str": 17,
+      "dex": 7,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69b7f413l0i1pdlfnyqleuyg0fm",
+    "name": "Ringed Finger",
+    "category": "Hammer",
+    "requirements": {
+      "str": 17,
+      "dex": 7,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6980f9d0l0i1pdddh1p7a12vqnc",
+    "name": "Scepter Of The All-knowing",
+    "category": "Hammer",
+    "requirements": {
+      "str": 12,
+      "dex": 18,
+      "int": 21,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f699d1084l0i1pcmssd76cdlcjqk",
+    "name": "Spiked Club",
+    "category": "Hammer",
+    "requirements": {
+      "str": 12,
+      "dex": 7,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6984dcccl0i1pdm4f6od648mce",
+    "name": "Stone Club",
+    "category": "Hammer",
+    "requirements": {
+      "str": 16,
+      "dex": 8,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69aced5el0i1pcsbypcz3lxclfq",
+    "name": "Varré's Bouquet",
+    "category": "Hammer",
+    "requirements": {
+      "str": 8,
+      "dex": 16,
+      "int": 0,
+      "fth": 0,
+      "arc": 24
+    }
+  },
+  {
+    "id": "17f694ca651l0i1pbx2gimykg3587g",
+    "name": "Warpick",
+    "category": "Hammer",
+    "requirements": {
+      "str": 11,
+      "dex": 9,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69987c03l0i1pdyutp139wmu1sh",
+    "name": "Bloody Helice",
+    "category": "Heavy Thrusting Sword",
+    "requirements": {
+      "str": 16,
+      "dex": 19,
+      "int": 0,
+      "fth": 0,
+      "arc": 17
+    }
+  },
+  {
+    "id": "17f699a14b1l0i1pekzisiwkpul53i",
+    "name": "Dragon King's Cragblade",
+    "category": "Heavy Thrusting Sword",
+    "requirements": {
+      "str": 18,
+      "dex": 37,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6969f10el0i1pecne5vzed6lx56",
+    "name": "Godskin Stitcher",
+    "category": "Heavy Thrusting Sword",
+    "requirements": {
+      "str": 14,
+      "dex": 17,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f696cbcb2l0i1pe89fm2alskh2df",
+    "name": "Great Épée",
+    "category": "Heavy Thrusting Sword",
+    "requirements": {
+      "str": 15,
+      "dex": 16,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69c558e4l0i1pfn93tt9wcpo0di",
+    "name": "Dragonscale Blade",
+    "category": "Katana",
+    "requirements": {
+      "str": 12,
+      "dex": 20,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69667faal0i1pezui5k6y6r0fin",
+    "name": "Hand Of Malenia",
+    "category": "Katana",
+    "requirements": {
+      "str": 16,
+      "dex": 48,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69513a8al0i1pf3ozolljjevfk",
+    "name": "Meteoric Ore Blade",
+    "category": "Katana",
+    "requirements": {
+      "str": 15,
+      "dex": 14,
+      "int": 18,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69a10accl0i1pfj7uwvc9kzei7d",
+    "name": "Moonveil",
+    "category": "Katana",
+    "requirements": {
+      "str": 12,
+      "dex": 18,
+      "int": 23,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69728e6al0i1peyh4scwxfhl357",
+    "name": "Nagakiba",
+    "category": "Katana",
+    "requirements": {
+      "str": 18,
+      "dex": 22,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6946d08bl0i1pfb4sevs913hvu",
+    "name": "Rivers Of Blood",
+    "category": "Katana",
+    "requirements": {
+      "str": 12,
+      "dex": 18,
+      "int": 0,
+      "fth": 0,
+      "arc": 20
+    }
+  },
+  {
+    "id": "17f69d611efl0i1pfqtebu0oq2b2w4",
+    "name": "Serpentbone Blade",
+    "category": "Katana",
+    "requirements": {
+      "str": 11,
+      "dex": 22,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69cd8a23l0i1peugvwepjdkaqh",
+    "name": "Uchigatana",
+    "category": "Katana",
+    "requirements": {
+      "str": 11,
+      "dex": 15,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6976f477l0i1pgfgwmdenvupj5",
+    "name": "Composite Bow",
+    "category": "Light Bow",
+    "requirements": {
+      "str": 15,
+      "dex": 15,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69491311l0i1pgceffu5ll8sovn",
+    "name": "Harp Bow",
+    "category": "Light Bow",
+    "requirements": {
+      "str": 9,
+      "dex": 9,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69b492f2l0i1pg02g5smf5kummp",
+    "name": "Misbegotten Shortbow",
+    "category": "Light Bow",
+    "requirements": {
+      "str": 16,
+      "dex": 8,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6971cafal0i1pg8ls91ef3yrf8r",
+    "name": "Red Branch Shortbow",
+    "category": "Light Bow",
+    "requirements": {
+      "str": 8,
+      "dex": 16,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6994d14el0i1pfsvoe12uhfhqnc",
+    "name": "Shortbow",
+    "category": "Light Bow",
+    "requirements": {
+      "str": 8,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69ce5e4cl0i128b0nivmu8x7jg",
+    "name": "Albinauric Shield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 11,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f698ac740l0i127wziv2s11fd2c",
+    "name": "Banished Knight's Shield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 14,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69710d06l0i12cez6ml1ut0n7cs",
+    "name": "Beast Crest Heater Shield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 10,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f698cf256l0i12dbf0mgqicx93p",
+    "name": "Black Leather Shield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 10,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69722576l0i12cnfqtct2uo1lqi",
+    "name": "Blue Crest Heater Shield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 10,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6966bef4l0i129o1blgktqip69s",
+    "name": "Blue-gold Kite Shield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 12,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69beaf5al0i12ae69s49g5aaaea",
+    "name": "Brass Shield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 16,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69723a6dl0i12bhd8qm1rkekq4w",
+    "name": "Candletree Wooden Shield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6942eeabl0i12apjrp14m98cxmg",
+    "name": "Carian Knight's Shield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 10,
+      "dex": 10,
+      "int": 15,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69c34ab1l0i12cmtzhluyza2vbd",
+    "name": "Eclipse Crest Heater Shield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 0,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f698d0e0bl0i12bjdv825l4x33d",
+    "name": "Flame Crest Wooden Shield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f699d7257l0i12ai52ozxwx6ewwi",
+    "name": "Great Turtle Shell",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 14,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f694f969el0i12bq44jy1iwmun1y",
+    "name": "Hawk Crest Wooden Shield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f694b8cc1l0i12d7wmnsvn9wams",
+    "name": "Heater Shield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 10,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f699a214fl0i12beelfraiymmf7",
+    "name": "Horse Crest Wooden Shield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f693c5d25l0i12cqwc17w5od5uh",
+    "name": "Inverted Hawk Heater Shield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 10,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6967bb2bl0i127q8x98oklbecj",
+    "name": "Kite Shield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 12,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69b8ad9fl0i12bhsus3gi193fg",
+    "name": "Large Leather Shield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6985902bl0i127b1nqhoj9b4nhl",
+    "name": "Marred Leather Shield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f696cb3bal0i127cn7tiavj7t1u",
+    "name": "Marred Wooden Shield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69654c0bl0i12chkv2olyhv4kt",
+    "name": "Red Crest Heater Shield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 10,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6988b72dl0i128vmcj5b7a5j1e9",
+    "name": "Round Shield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6948dfb1l0i1298n92tg7459mbg",
+    "name": "Scorpion Kite Shield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 11,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6970052fl0i128q30d2avtlnbrrf",
+    "name": "Silver Mirrorshield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 12,
+      "dex": 10,
+      "int": 10,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6987cd26l0i128fmzfvt6grfjsp",
+    "name": "Sun Realm Shield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f698aad3fl0i129kcpcnkgwlznm",
+    "name": "Twinbird Kite Shield",
+    "category": "Medium Shield",
+    "requirements": {
+      "str": 12,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69920f78l0i1pgs2yaxn0jafxk",
+    "name": "Grave Scythe",
+    "category": "Reaper",
+    "requirements": {
+      "str": 17,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f697b3423l0i1pgz84q3gg342rvu",
+    "name": "Halo Scythe",
+    "category": "Reaper",
+    "requirements": {
+      "str": 13,
+      "dex": 16,
+      "int": 0,
+      "fth": 15,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69502a09l0i1pgjcmg5igz1j0mr",
+    "name": "Scythe",
+    "category": "Reaper",
+    "requirements": {
+      "str": 14,
+      "dex": 14,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69abddefl0i1ph323xr196zcpc",
+    "name": "Winged Scythe",
+    "category": "Reaper",
+    "requirements": {
+      "str": 16,
+      "dex": 16,
+      "int": 0,
+      "fth": 24,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f697c0b2dl0i1phqrezjlqqlunoa",
+    "name": "Clawmark Seal",
+    "category": "Sacred Seal",
+    "requirements": {
+      "str": 4,
+      "dex": 0,
+      "int": 0,
+      "fth": 10,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f697307d1l0i1pi6qvgmp5wuhmk",
+    "name": "Dragon Communion Seal",
+    "category": "Sacred Seal",
+    "requirements": {
+      "str": 0,
+      "dex": 0,
+      "int": 0,
+      "fth": 10,
+      "arc": 10
+    }
+  },
+  {
+    "id": "17f69746125l0i1phti5gxbjc1nfhx",
+    "name": "Erdtree Seal",
+    "category": "Sacred Seal",
+    "requirements": {
+      "str": 0,
+      "dex": 0,
+      "int": 0,
+      "fth": 40,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f699368ccl0i1ph45qf42ty540od",
+    "name": "Finger Seal",
+    "category": "Sacred Seal",
+    "requirements": {
+      "str": 4,
+      "dex": 0,
+      "int": 0,
+      "fth": 10,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69885c93l0i1pihpfc550piu1x",
+    "name": "Frenzied Flame Seal",
+    "category": "Sacred Seal",
+    "requirements": {
+      "str": 0,
+      "dex": 0,
+      "int": 0,
+      "fth": 10,
+      "arc": 10
+    }
+  },
+  {
+    "id": "17f6995ccbfl0i1phh558cbgycwuo",
+    "name": "Giant's Seal",
+    "category": "Sacred Seal",
+    "requirements": {
+      "str": 4,
+      "dex": 0,
+      "int": 0,
+      "fth": 14,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69bbd392l0i1ph9qxgols7hl7qc",
+    "name": "Godslayer's Seal",
+    "category": "Sacred Seal",
+    "requirements": {
+      "str": 4,
+      "dex": 0,
+      "int": 0,
+      "fth": 27,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d76aa8l0i1phsgjq5azzb5g1",
+    "name": "Golden Order Seal",
+    "category": "Sacred Seal",
+    "requirements": {
+      "str": 0,
+      "dex": 0,
+      "int": 17,
+      "fth": 17,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69aba9d3l0i12ga56obpyqthd0a",
+    "name": "Cuckoo Greatshield",
+    "category": "Shield",
+    "requirements": {
+      "str": 32,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f693d58ael0i125pgfsn2zo4078i",
+    "name": "Beastman's Jar-shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 10,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69652424l0i125urgh9o09mhavm",
+    "name": "Blue-white Wooden Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69c62fe8l0i124u8fi4nc7dbfbf",
+    "name": "Buckler",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 13,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f694927d7l0i127ng35ra4v5k4gn",
+    "name": "Coil Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 10,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f698a4b7bl0i126nb4s0xsp2lnfw",
+    "name": "Gilded Iron Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69b12e1bl0i126nysn2v09nsd3",
+    "name": "Ice Crest Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 9,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69b10c2el0i126k1rlvenfih79r",
+    "name": "Iron Roundshield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69b5141al0i124v8pxr1ks1ekij",
+    "name": "Man-serpent's Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f694b8615l0i124uyj41jnmpvitp",
+    "name": "Perfumer's Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69a7085fl0i124y1772hsc2fore",
+    "name": "Pillory Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 10,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69c6b08dl0i125phehezloe6mgp",
+    "name": "Red Thorn Roundshield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6976985el0i124znputjytfizsr",
+    "name": "Rickety Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69c01371l0i126fsrmmhmt78m7",
+    "name": "Rift Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6976f39fl0i125rvey7g31uyix",
+    "name": "Riveted Wooden Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69cbb4afl0i125s3vg05tmg3h9",
+    "name": "Scripture Wooden Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6996caf5l0i12afnpkuzhuzo9o",
+    "name": "Shield Of The Guilty",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6942deffl0i1271bdbp91snfovh",
+    "name": "Spiralhorn Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69bd6428l0i126mo49q97n1both",
+    "name": "Smoldering Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 10,
+      "dex": 9,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6993e936l0i1pjyhfk7vfpgc8ce",
+    "name": "Bolt Of Gransax",
+    "category": "Spear",
+    "requirements": {
+      "str": 20,
+      "dex": 40,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f694b74eel0i1pjc1y7lp7e97wy",
+    "name": "Celebrant's Rib-rake",
+    "category": "Spear",
+    "requirements": {
+      "str": 8,
+      "dex": 14,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69b1e4cfl0i1piuurxtzf8019c",
+    "name": "Clayman's Harpoon",
+    "category": "Spear",
+    "requirements": {
+      "str": 0,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f698acb69l0i1pjffhe1kjzha5v",
+    "name": "Cleanrot Spear",
+    "category": "Spear",
+    "requirements": {
+      "str": 16,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69b7874el0i1pk0zpdda5qgjzi",
+    "name": "Cross-naginata",
+    "category": "Spear",
+    "requirements": {
+      "str": 16,
+      "dex": 20,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69a617edl0i1piq3kor6g6xs3ql",
+    "name": "Crystal Spear",
+    "category": "Spear",
+    "requirements": {
+      "str": 10,
+      "dex": 16,
+      "int": 16,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6963cc83l0i1pk36gu3e5f8fpxm",
+    "name": "Death Ritual Spear",
+    "category": "Spear",
+    "requirements": {
+      "str": 11,
+      "dex": 20,
+      "int": 18,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69ac78dcl0i1pke5of594dboffh",
+    "name": "Inquisitor's Girandole",
+    "category": "Spear",
+    "requirements": {
+      "str": 18,
+      "dex": 15,
+      "int": 0,
+      "fth": 16,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f698a34afl0i1pku2sj7lswv0zy",
+    "name": "Iron Spear",
+    "category": "Spear",
+    "requirements": {
+      "str": 13,
+      "dex": 11,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f698971dfl0i1pja9443dg722bb3",
+    "name": "Partisan",
+    "category": "Spear",
+    "requirements": {
+      "str": 15,
+      "dex": 12,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6975ef77l0i1pjgwds05239gwag",
+    "name": "Pike",
+    "category": "Spear",
+    "requirements": {
+      "str": 20,
+      "dex": 14,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69c12977l0i1pkr6s0g1o7v5kz",
+    "name": "Rotten Crystal Spear",
+    "category": "Spear",
+    "requirements": {
+      "str": 10,
+      "dex": 16,
+      "int": 16,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69bba35dl0i1pilsvl3r9ub4cf9",
+    "name": "Short Spear",
+    "category": "Spear",
+    "requirements": {
+      "str": 10,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f697047a0l0i1pik0le4bp23xal",
+    "name": "Spear",
+    "category": "Spear",
+    "requirements": {
+      "str": 12,
+      "dex": 15,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6975dd97l0i1pkiw33ipbj1wu2d",
+    "name": "Spiked Spear",
+    "category": "Spear",
+    "requirements": {
+      "str": 14,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d10518l0i1pjt3166nis69mk9",
+    "name": "Torchpole",
+    "category": "Spear",
+    "requirements": {
+      "str": 14,
+      "dex": 15,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f697d5fe2l0i1pkvirys2xrxe0un",
+    "name": "Winged Spear",
+    "category": "Spear",
+    "requirements": {
+      "str": 10,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f696356b4l0i1pljd3dmbyei0rzd",
+    "name": "Broadsword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 10,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6997d3a3l0i1pn2970lts73cbnn",
+    "name": "Cane Sword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 8,
+      "dex": 11,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69b44345l0i1pmq6va882h9uvf",
+    "name": "Carian Knight's Sword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 10,
+      "dex": 10,
+      "int": 18,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d1c283l0i1pm7km9k4n9hesqp",
+    "name": "Coded Sword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 0,
+      "dex": 0,
+      "int": 0,
+      "fth": 20,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69b32328l0i1pmuqj0u81mxsett",
+    "name": "Crystal Sword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 13,
+      "dex": 10,
+      "int": 15,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f697020ddl0i1pm0mkycj3pyzli7",
+    "name": "Golden Epitaph",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 12,
+      "dex": 10,
+      "int": 0,
+      "fth": 14,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f697a64ccl0i1pnuagdt1sfmx0pk",
+    "name": "Lazuli Glintstone Sword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69a84ec9l0i1pl7rf93vq4jlbt8",
+    "name": "Longsword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 10,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69b31ef4l0i1plkiau08p955pt5",
+    "name": "Lordsworn's Straight Sword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 10,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69aa244al0i1pmyf54x5qm8xb1r",
+    "name": "Miquellan Knight's Sword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 11,
+      "dex": 11,
+      "int": 0,
+      "fth": 16,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6976fa7el0i1pnla0wdjcpf4iqvm",
+    "name": "Noble's Slender Sword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69523142l0i1pm7iurzr5rt7vpb",
+    "name": "Ornamental Straight Sword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 10,
+      "dex": 14,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d2e16cl0i1pndl0cqdeg1df40a",
+    "name": "Regalia Of Eochaid",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 12,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d445cel0i1pnsmtteechmemmd",
+    "name": "Rotten Crystal Sword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 13,
+      "dex": 10,
+      "int": 15,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f699b4949l0i1plb5z4sznm17g7p",
+    "name": "Short Sword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 8,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69dcdeb9l0i1pmay6pw29q0kz9j",
+    "name": "Sword Of Night And Flame",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 12,
+      "dex": 12,
+      "int": 0,
+      "fth": 24,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f698685e3l0i1pmwzhhrnhxcf81",
+    "name": "Sword Of St Trina",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 10,
+      "dex": 12,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69b005b3l0i1pnmcmlgow749t19",
+    "name": "Warhawk's Talon",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 10,
+      "dex": 16,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6953c2f2l0i1pltkmb7nxuvfxgo",
+    "name": "Weathered Straight Sword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 7,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f697b4c08l0i1pomqr1pxcel70uf",
+    "name": "Antspur Rapier",
+    "category": "Thrusting Sword",
+    "requirements": {
+      "str": 10,
+      "dex": 20,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6990b8f9l0i1poeub82lv32r18o",
+    "name": "Cleanrot Knight's Sword",
+    "category": "Thrusting Sword",
+    "requirements": {
+      "str": 13,
+      "dex": 11,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69747395l0i1po2ze4jsp35ms3t",
+    "name": "Estoc",
+    "category": "Thrusting Sword",
+    "requirements": {
+      "str": 11,
+      "dex": 13,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69a8a231l0i1potleffsoj8ycfb",
+    "name": "Frozen Needle",
+    "category": "Thrusting Sword",
+    "requirements": {
+      "str": 11,
+      "dex": 18,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f6999d8b5l0i1pp5phyiipgx4eoi",
+    "name": "Noble's Estoc",
+    "category": "Thrusting Sword",
+    "requirements": {
+      "str": 9,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69c6c09el0i1poegki2ecno2vw",
+    "name": "Rapier",
+    "category": "Thrusting Sword",
+    "requirements": {
+      "str": 7,
+      "dex": 12,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d58854l0i1pom1ferfthsgsd",
+    "name": "Rogier's Rapier",
+    "category": "Thrusting Sword",
+    "requirements": {
+      "str": 8,
+      "dex": 17,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f694a60fal0i1pprpdod0sn0veh",
+    "name": "Beast-repellent Torch",
+    "category": "Torch",
+    "requirements": {
+      "str": 12,
+      "dex": 8,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69ca18e3l0i1pplg1qd5hx85vfgj",
+    "name": "Ghostflame Torch",
+    "category": "Torch",
+    "requirements": {
+      "str": 10,
+      "dex": 10,
+      "int": 14,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69cf8934l0i1ppuzogdnseu6l7f",
+    "name": "Sentry's Torch",
+    "category": "Torch",
+    "requirements": {
+      "str": 15,
+      "dex": 8,
+      "int": 0,
+      "fth": 15,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69762fd7l0i1ppfr1nudb4uz853",
+    "name": "St. Trina's Torch",
+    "category": "Torch",
+    "requirements": {
+      "str": 10,
+      "dex": 10,
+      "int": 0,
+      "fth": 14,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69c23d73l0i1ppcoi0x9lzm1frn",
+    "name": "Steel-wire Torch",
+    "category": "Torch",
+    "requirements": {
+      "str": 10,
+      "dex": 8,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69a2e19cl0i1pp06n0kd7rxesjl",
+    "name": "Torch",
+    "category": "Torch",
+    "requirements": {
+      "str": 5,
+      "dex": 5,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d7ad55l0i1pqhdj20wzeg63ts",
+    "name": "Eleonora's Poleblade",
+    "category": "Twinblade",
+    "requirements": {
+      "str": 12,
+      "dex": 21,
+      "int": 0,
+      "fth": 0,
+      "arc": 19
+    }
+  },
+  {
+    "id": "17f69a3190el0i1pqs4x6j5c6xpye",
+    "name": "Gargoyle's Black Blades",
+    "category": "Twinblade",
+    "requirements": {
+      "str": 18,
+      "dex": 15,
+      "int": 0,
+      "fth": 22,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f695e037bl0i1pqkyetqd7zbu8l",
+    "name": "Gargoyle's Twinblade",
+    "category": "Twinblade",
+    "requirements": {
+      "str": 18,
+      "dex": 15,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69528e34l0i1pq5pn4dg3bbkmj",
+    "name": "Godskin Peeler",
+    "category": "Twinblade",
+    "requirements": {
+      "str": 17,
+      "dex": 22,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69afb6c2l0i1ps6dducecpwa4m",
+    "name": "Twinblade",
+    "category": "Twinblade",
+    "requirements": {
+      "str": 10,
+      "dex": 18,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69a2b9c8l0i1pqbpbbyiylafnx",
+    "name": "Twinned Knight Swords",
+    "category": "Twinblade",
+    "requirements": {
+      "str": 16,
+      "dex": 18,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69b42027l0i1prapddaur3pdili",
+    "name": "Battle Hammer",
+    "category": "Warhammer",
+    "requirements": {
+      "str": 26,
+      "dex": 8,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69aff56dl0i1przmnvkw34pmvm",
+    "name": "Beastclaw Greathammer",
+    "category": "Warhammer",
+    "requirements": {
+      "str": 20,
+      "dex": 10,
+      "int": 0,
+      "fth": 18,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69c5bf40l0i1pszirywq0wqy1l",
+    "name": "Brick Hammer",
+    "category": "Warhammer",
+    "requirements": {
+      "str": 31,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69ace310l0i1proreclwz3grgz",
+    "name": "Celebrant's Skull",
+    "category": "Warhammer",
+    "requirements": {
+      "str": 18,
+      "dex": 12,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69657dc0l0i1psc1sw2ehitb9m",
+    "name": "Cranial Vessel Candlestand",
+    "category": "Warhammer",
+    "requirements": {
+      "str": 26,
+      "dex": 8,
+      "int": 0,
+      "fth": 22,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69aaf476l0i1prkfafl8jets7wh",
+    "name": "Curved Great Club",
+    "category": "Warhammer",
+    "requirements": {
+      "str": 24,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69b4d221l0i1psy7bxk9acqs5xv",
+    "name": "Devourer's Scepter",
+    "category": "Warhammer",
+    "requirements": {
+      "str": 24,
+      "dex": 20,
+      "int": 0,
+      "fth": 25,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69c5e336l0i1ps8m2w27as1vumo",
+    "name": "Envoy's Long Horn",
+    "category": "Warhammer",
+    "requirements": {
+      "str": 23,
+      "dex": 11,
+      "int": 0,
+      "fth": 18,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69a1045al0i1prfggf7geafalun",
+    "name": "Great Mace",
+    "category": "Warhammer",
+    "requirements": {
+      "str": 28,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69dc134al0i1psnm7v5asqrwh7g",
+    "name": "Great Stars",
+    "category": "Warhammer",
+    "requirements": {
+      "str": 22,
+      "dex": 12,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f696c1ee3l0i1pr4ayhpbcwld3pn",
+    "name": "Greathorn Hammer",
+    "category": "Warhammer",
+    "requirements": {
+      "str": 22,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f698bc778l0i1pqyr7r7agoq3o5d",
+    "name": "Large Club",
+    "category": "Warhammer",
+    "requirements": {
+      "str": 22,
+      "dex": 0,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69aa2722l0i1ps9o8lwz4rprn29",
+    "name": "Pickaxe",
+    "category": "Warhammer",
+    "requirements": {
+      "str": 22,
+      "dex": 10,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f699989edl0i1pt44dx2gkj49me6",
+    "name": "Rotten Battle Hammer",
+    "category": "Warhammer",
+    "requirements": {
+      "str": 26,
+      "dex": 8,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f696af19bl0i1ptpv0fdawl72o4yq",
+    "name": "Giant's Red Braid",
+    "category": "Whip",
+    "requirements": {
+      "str": 18,
+      "dex": 12,
+      "int": 0,
+      "fth": 21,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f694eefe9l0i1pto8dn7ezy61a99",
+    "name": "Hoslow's Petal Whip",
+    "category": "Whip",
+    "requirements": {
+      "str": 10,
+      "dex": 20,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69c5c0bfl0i1ptlhsrovoc8dx07",
+    "name": "Magma Whip Candlestick",
+    "category": "Whip",
+    "requirements": {
+      "str": 8,
+      "dex": 16,
+      "int": 0,
+      "fth": 18,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69571714l0i1ptc8s1fsagr8zf",
+    "name": "Thorned Whip",
+    "category": "Whip",
+    "requirements": {
+      "str": 8,
+      "dex": 16,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69691044l0i1ptyliubsc1c29o9",
+    "name": "Urumi",
+    "category": "Whip",
+    "requirements": {
+      "str": 10,
+      "dex": 19,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  },
+  {
+    "id": "17f69d7e396l0i1pt3tuf213zcu8u",
+    "name": "Whip",
+    "category": "Whip",
+    "requirements": {
+      "str": 8,
+      "dex": 14,
+      "int": 0,
+      "fth": 0,
+      "arc": 0
+    }
+  }
+]

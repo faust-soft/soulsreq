@@ -1,0 +1,959 @@
+
+ [
+  {
+    "name": "Dagger",
+    "type": "Dagger",
+    "req": { "str": 5, "dex": 8, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Bandit's Knife",
+    "type": "Dagger",
+    "req": { "str": 6, "dex": 12, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Parrying Dagger",
+    "type": "Dagger",
+    "req": { "str": 5, "dex": 14, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Ghost Blade",
+    "type": "Dagger",
+    "req": { "str": 5, "dex": 0, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Priscilla's Dagger",
+    "type": "Dagger",
+    "req": { "str": 6, "dex": 20, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Dark Silver Tracer",
+    "type": "Dagger",
+    "req": { "str": 6, "dex": 25, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Shortsword",
+    "type": "Straight Sword",
+    "req": { "str": 8, "dex": 10, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Longsword",
+    "type": "Straight Sword",
+    "req": { "str": 10, "dex": 10, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Broadsword",
+    "type": "Straight Sword",
+    "req": { "str": 10, "dex": 10, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Balder Side Sword",
+    "type": "Straight Sword",
+    "req": { "str": 10, "dex": 14, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Sunlight Straight Sword",
+    "type": "Straight Sword",
+    "req": { "str": 12, "dex": 12, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Darksword",
+    "type": "Straight Sword",
+    "req": { "str": 16, "dex": 16, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Barbed Straight Sword",
+    "type": "Straight Sword",
+    "req": { "str": 10, "dex": 10, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Crystal Straight Sword",
+    "type": "Straight Sword",
+    "req": { "str": 16, "dex": 10, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Silver Knight Straight Sword",
+    "type": "Straight Sword",
+    "req": { "str": 16, "dex": 22, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Astora's Straight Sword",
+    "type": "Straight Sword",
+    "req": { "str": 10, "dex": 10, "int": 0, "fai": 14 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Drake Sword",
+    "type": "Straight Sword",
+    "req": { "str": 16, "dex": 10, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Broken Straight Sword",
+    "type": "Straight Sword",
+    "req": { "str": 8, "dex": 8, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Straight Sword Hilt",
+    "type": "Straight Sword",
+    "req": { "str": 6, "dex": 6, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Abyss Greatsword",
+    "type": "Greatsword",
+    "req": { "str": 22, "dex": 18, "int": 18, "fai": 18 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Greatsword of Artorias (Cursed)",
+    "type": "Greatsword",
+    "req": { "str": 24, "dex": 18, "int": 18, "fai": 18 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Greatsword of Artorias",
+    "type": "Greatsword",
+    "req": { "str": 24, "dex": 18, "int": 20, "fai": 20 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Great Lord Greatsword",
+    "type": "Greatsword",
+    "req": { "str": 20, "dex": 10, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Bastard Sword",
+    "type": "Greatsword",
+    "req": { "str": 16, "dex": 10, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Claymore",
+    "type": "Greatsword",
+    "req": { "str": 16, "dex": 10, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Man-Serpent Greatsword",
+    "type": "Greatsword",
+    "req": { "str": 24, "dex": 0, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Flamberge",
+    "type": "Greatsword",
+    "req": { "str": 16, "dex": 14, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Crystal Greatsword",
+    "type": "Greatsword",
+    "req": { "str": 20, "dex": 10, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Black Knight Sword",
+    "type": "Greatsword",
+    "req": { "str": 20, "dex": 18, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Stone Greatsword",
+    "type": "Greatsword",
+    "req": { "str": 40, "dex": 10, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Moonlight Greatsword",
+    "type": "Greatsword",
+    "req": { "str": 16, "dex": 10, "int": 28, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Obsidian Greatsword",
+    "type": "Greatsword",
+    "req": { "str": 20, "dex": 16, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Greatsword",
+    "type": "Ultra Greatsword",
+    "req": { "str": 28, "dex": 10, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Zweihander",
+    "type": "Ultra Greatsword",
+    "req": { "str": 24, "dex": 10, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Demon Great Machete",
+    "type": "Ultra Greatsword",
+    "req": { "str": 40, "dex": 0, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Black Knight Greatsword",
+    "type": "Ultra Greatsword",
+    "req": { "str": 32, "dex": 18, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Dragon Greatsword",
+    "type": "Ultra Greatsword",
+    "req": { "str": 50, "dex": 10, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Scimitar",
+    "type": "Curved Sword",
+    "req": { "str": 7, "dex": 13, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Quelaag's Furysword",
+    "type": "Curved Sword",
+    "req": { "str": 11, "dex": 13, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Falchion",
+    "type": "Curved Sword",
+    "req": { "str": 9, "dex": 13, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Shotel",
+    "type": "Curved Sword",
+    "req": { "str": 9, "dex": 14, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Painting Guardian Sword",
+    "type": "Curved Sword",
+    "req": { "str": 7, "dex": 20, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Jagged Ghost Blade",
+    "type": "Curved Sword",
+    "req": { "str": 7, "dex": 0, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Gold Tracer",
+    "type": "Curved Sword",
+    "req": { "str": 9, "dex": 25, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Uchigatana",
+    "type": "Katana",
+    "req": { "str": 14, "dex": 14, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Chaos Blade",
+    "type": "Katana",
+    "req": { "str": 16, "dex": 14, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Iaito",
+    "type": "Katana",
+    "req": { "str": 14, "dex": 20, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Washing Pole",
+    "type": "Katana",
+    "req": { "str": 20, "dex": 16, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Murakumo",
+    "type": "Curved Greatsword",
+    "req": { "str": 28, "dex": 13, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Server",
+    "type": "Curved Greatsword",
+    "req": { "str": 24, "dex": 13, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Gravelord Sword",
+    "type": "Curved Greatsword",
+    "req": { "str": 24, "dex": 13, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Mail Breaker",
+    "type": "Thrusting Sword",
+    "req": { "str": 5, "dex": 12, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Rapier",
+    "type": "Thrusting Sword",
+    "req": { "str": 7, "dex": 12, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Estoc",
+    "type": "Thrusting Sword",
+    "req": { "str": 10, "dex": 12, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Ricard's Rapier",
+    "type": "Thrusting Sword",
+    "req": { "str": 8, "dex": 20, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Velka's Rapier",
+    "type": "Thrusting Sword",
+    "req": { "str": 8, "dex": 16, "int": 16, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Hand Axe",
+    "type": "Axe",
+    "req": { "str": 8, "dex": 8, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Battle Axe",
+    "type": "Axe",
+    "req": { "str": 12, "dex": 8, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Golem Axe",
+    "type": "Axe",
+    "req": { "str": 36, "dex": 8, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Butcher Knife",
+    "type": "Axe",
+    "req": { "str": 24, "dex": 0, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Gargoyle Tail Axe",
+    "type": "Axe",
+    "req": { "str": 14, "dex": 14, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Crescent Axe",
+    "type": "Axe",
+    "req": { "str": 18, "dex": 12, "int": 0, "fai": 16 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Greataxe",
+    "type": "Greataxe",
+    "req": { "str": 32, "dex": 8, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Demon's Greataxe",
+    "type": "Greataxe",
+    "req": { "str": 46, "dex": 0, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Stone Greataxe",
+    "type": "Greataxe",
+    "req": { "str": 48, "dex": 10, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Black Knight Greataxe",
+    "type": "Greataxe",
+    "req": { "str": 36, "dex": 18, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Dragon King Greataxe",
+    "type": "Greataxe",
+    "req": { "str": 50, "dex": 0, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Club",
+    "type": "Hammer",
+    "req": { "str": 10, "dex": 0, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Reinforced Club",
+    "type": "Hammer",
+    "req": { "str": 12, "dex": 0, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Blacksmith Giant Hammer",
+    "type": "Hammer",
+    "req": { "str": 16, "dex": 0, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Mace",
+    "type": "Hammer",
+    "req": { "str": 12, "dex": 0, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Morning Star",
+    "type": "Hammer",
+    "req": { "str": 11, "dex": 0, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Warpick",
+    "type": "Hammer",
+    "req": { "str": 11, "dex": 10, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Pickaxe",
+    "type": "Hammer",
+    "req": { "str": 14, "dex": 0, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Blacksmith Hammer",
+    "type": "Hammer",
+    "req": { "str": 14, "dex": 0, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Hammer of Vamos",
+    "type": "Hammer",
+    "req": { "str": 14, "dex": 0, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Smough's Hammer",
+    "type": "Great Hammer",
+    "req": { "str": 58, "dex": 0, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Large Club",
+    "type": "Great Hammer",
+    "req": { "str": 26, "dex": 0, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Great Club",
+    "type": "Great Hammer",
+    "req": { "str": 28, "dex": 0, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Demon's Great Hammer",
+    "type": "Great Hammer",
+    "req": { "str": 46, "dex": 0, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Grant",
+    "type": "Great Hammer",
+    "req": { "str": 50, "dex": 0, "int": 0, "fai": 30 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Dragon Tooth",
+    "type": "Great Hammer",
+    "req": { "str": 40, "dex": 0, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Dragon Bone Fist",
+    "type": "Fist",
+    "req": { "str": 20, "dex": 0, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Caestus",
+    "type": "Fist",
+    "req": { "str": 5, "dex": 8, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Claw",
+    "type": "Claw",
+    "req": { "str": 6, "dex": 14, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Dark Hand",
+    "type": "Fist",
+    "req": { "str": 0, "dex": 0, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Spear",
+    "type": "Spear",
+    "req": { "str": 11, "dex": 10, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Winged Spear",
+    "type": "Spear",
+    "req": { "str": 13, "dex": 15, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Partizan",
+    "type": "Spear",
+    "req": { "str": 13, "dex": 12, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Four-Pronged Plow",
+    "type": "Spear",
+    "req": { "str": 15, "dex": 12, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Dragonslayer Spear",
+    "type": "Spear",
+    "req": { "str": 24, "dex": 24, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Moonlight Butterfly Horn",
+    "type": "Spear",
+    "req": { "str": 12, "dex": 0, "int": 14, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Pike",
+    "type": "Spear",
+    "req": { "str": 24, "dex": 10, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Channeler's Trident",
+    "type": "Spear",
+    "req": { "str": 16, "dex": 16, "int": 24, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Demon's Spear",
+    "type": "Spear",
+    "req": { "str": 12, "dex": 10, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Silver Knight Spear",
+    "type": "Spear",
+    "req": { "str": 16, "dex": 22, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Halberd",
+    "type": "Halberd",
+    "req": { "str": 16, "dex": 12, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Lifehunt Scythe",
+    "type": "Halberd",
+    "req": { "str": 16, "dex": 14, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Lucerne",
+    "type": "Halberd",
+    "req": { "str": 15, "dex": 12, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Scythe",
+    "type": "Halberd",
+    "req": { "str": 14, "dex": 12, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Gargoyle's Halberd",
+    "type": "Halberd",
+    "req": { "str": 16, "dex": 12, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Giant's Halberd",
+    "type": "Halberd",
+    "req": { "str": 36, "dex": 12, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Titanite Catch Pole",
+    "type": "Halberd",
+    "req": { "str": 16, "dex": 14, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Black Knight Halberd",
+    "type": "Halberd",
+    "req": { "str": 32, "dex": 18, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Great Scythe",
+    "type": "Halberd",
+    "req": { "str": 14, "dex": 14, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Whip",
+    "type": "Whip",
+    "req": { "str": 7, "dex": 14, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Notched Whip",
+    "type": "Whip",
+    "req": { "str": 8, "dex": 16, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Guardian Tail",
+    "type": "Whip",
+    "req": { "str": 15, "dex": 10, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Short Bow",
+    "type": "Bow",
+    "req": { "str": 7, "dex": 12, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Composite Bow",
+    "type": "Bow",
+    "req": { "str": 11, "dex": 12, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Darkmoon Bow",
+    "type": "Bow",
+    "req": { "str": 7, "dex": 16, "int": 0, "fai": 16 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Longbow",
+    "type": "Bow",
+    "req": { "str": 9, "dex": 14, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Black Bow of Pharis",
+    "type": "Bow",
+    "req": { "str": 9, "dex": 18, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Dragonslayer Greatbow",
+    "type": "Bow",
+    "req": { "str": 20, "dex": 20, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Gough's Greatbow",
+    "type": "Bow",
+    "req": { "str": 27, "dex": 20, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Light Crossbow",
+    "type": "Crossbow",
+    "req": { "str": 10, "dex": 8, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Heavy Crossbow",
+    "type": "Crossbow",
+    "req": { "str": 14, "dex": 8, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Sniper Crossbow",
+    "type": "Crossbow",
+    "req": { "str": 20, "dex": 16, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Avelyn",
+    "type": "Crossbow",
+    "req": { "str": 16, "dex": 14, "int": 0, "fai": 0 },
+    "twoHandRule": true
+  },
+  {
+    "name": "Sorcerer's Catalyst",
+    "type": "Catalyst",
+    "req": { "str": 6, "dex": 0, "int": 10, "fai": 0 },
+    "twoHandRule": false
+  },
+  {
+    "name": "Manus Catalyst",
+    "type": "Catalyst",
+    "req": { "str": 14, "dex": 0, "int": 13, "fai": 0 },
+    "twoHandRule": false
+  },
+  {
+    "name": "Tin Darkmoon Catalyst",
+    "type": "Catalyst",
+    "req": { "str": 4, "dex": 0, "int": 0, "fai": 16 },
+    "twoHandRule": false
+  },
+  {
+    "name": "Beatrice's Catalyst",
+    "type": "Catalyst",
+    "req": { "str": 6, "dex": 0, "int": 10, "fai": 0 },
+    "twoHandRule": false
+  },
+  {
+    "name": "Logan's Catalyst",
+    "type": "Catalyst",
+    "req": { "str": 6, "dex": 0, "int": 24, "fai": 0 },
+    "twoHandRule": false
+  },
+  {
+    "name": "Oolacile Ivory Catalyst",
+    "type": "Catalyst",
+    "req": { "str": 3, "dex": 0, "int": 12, "fai": 0 },
+    "twoHandRule": false
+  },
+  {
+    "name": "Oolacile Catalyst",
+    "type": "Catalyst",
+    "req": { "str": 6, "dex": 0, "int": 10, "fai": 0 },
+    "twoHandRule": false
+  },
+  {
+    "name": "Demon's Catalyst",
+    "type": "Catalyst",
+    "req": { "str": 12, "dex": 10, "int": 10, "fai": 0 },
+    "twoHandRule": false
+  },
+  {
+    "name": "Izalith Catalyst",
+    "type": "Catalyst",
+    "req": { "str": 6, "dex": 0, "int": 14, "fai": 0 },
+    "twoHandRule": false
+  },
+  {
+    "name": "Tin Banishment Catalyst",
+    "type": "Catalyst",
+    "req": { "str": 10, "dex": 10, "int": 12, "fai": 0 },
+    "twoHandRule": false
+  },
+  {
+    "name": "Tin Crystallization Catalyst",
+    "type": "Catalyst",
+    "req": { "str": 7, "dex": 0, "int": 32, "fai": 0 },
+    "twoHandRule": false
+  },
+  {
+    "name": "Pyromancy Flame",
+    "type": "Pyromancy Flame",
+    "req": { "str": 0, "dex": 0, "int": 0, "fai": 0 },
+    "twoHandRule": false
+  },
+  {
+    "name": "Pyromancy Flame (Upgraded)",
+    "type": "Pyromancy Flame",
+    "req": { "str": 0, "dex": 0, "int": 0, "fai": 0 },
+    "twoHandRule": false
+  },
+  {
+    "name": "Talisman",
+    "type": "Talisman",
+    "req": { "str": 4, "dex": 0, "int": 0, "fai": 10 },
+    "twoHandRule": false
+  },
+  {
+    "name": "Canvas Talisman",
+    "type": "Talisman",
+    "req": { "str": 4, "dex": 0, "int": 0, "fai": 14 },
+    "twoHandRule": false
+  },
+  {
+    "name": "Thorolund Talisman",
+    "type": "Talisman",
+    "req": { "str": 4, "dex": 0, "int": 0, "fai": 10 },
+    "twoHandRule": false
+  },
+  {
+    "name": "Ivory Talisman",
+    "type": "Talisman",
+    "req": { "str": 4, "dex": 0, "int": 0, "fai": 16 },
+    "twoHandRule": false
+  },
+  {
+    "name": "Sunlight Talisman",
+    "type": "Talisman",
+    "req": { "str": 4, "dex": 0, "int": 0, "fai": 14 },
+    "twoHandRule": false
+  },
+  {
+    "name": "Darkmoon Talisman",
+    "type": "Talisman",
+    "req": { "str": 4, "dex": 0, "int": 0, "fai": 24 },
+    "twoHandRule": false
+  },
+  {
+    "name": "Velka's Talisman",
+    "type": "Talisman",
+    "req": { "str": 4, "dex": 0, "int": 16, "fai": 0 },
+    "twoHandRule": false
+  },
+
+{ "name": "Small Leather Shield",       "category": "Small Shield", "req": { "str": 5,  "dex": 0,  "int": 0,  "fth": 0 } },
+{ "name": "Leather Shield",             "category": "Small Shield", "req": { "str": 6,  "dex": 0,  "int": 0,  "fth": 0 } },
+{ "name": "Target Shield",              "category": "Small Shield", "req": { "str": 8,  "dex": 11, "int": 0,  "fth": 0 } },
+{ "name": "Buckler",                    "category": "Small Shield", "req": { "str": 7,  "dex": 13, "int": 0,  "fth": 0 } },
+{ "name": "Cracked Round Shield",       "category": "Small Shield", "req": { "str": 6,  "dex": 0,  "int": 0,  "fth": 0 } },
+{ "name": "Warrior's Round Shield",     "category": "Small Shield", "req": { "str": 6,  "dex": 0,  "int": 0,  "fth": 0 } },
+{ "name": "Red & White Round Shield",   "category": "Small Shield", "req": { "str": 6,  "dex": 0,  "int": 0,  "fth": 0 } },
+{ "name": "Caduceus Round Shield",      "category": "Small Shield", "req": { "str": 6,  "dex": 0,  "int": 0,  "fth": 0 } },
+{ "name": "Effigy Shield",              "category": "Small Shield", "req": { "str": 10, "dex": 0,  "int": 0,  "fth": 16 } },
+{ "name": "Plank Shield",               "category": "Small Shield", "req": { "str": 7,  "dex": 0,  "int": 0,  "fth": 0 } },
+{ "name": "Crystal Ring Shield",        "category": "Small Shield", "req": { "str": 10, "dex": 0,  "int": 0,  "fth": 0 } },
+
+{ "name": "Gargoyle's Shield",        "category": "Standard Shield", "req": { "str": 12, "dex": 0, "int": 0, "fth": 0 } },
+{ "name": "East-West Shield",         "category": "Standard Shield", "req": { "str": 8,  "dex": 0, "int": 0, "fth": 0 } },
+{ "name": "Wooden Shield",            "category": "Standard Shield", "req": { "str": 4,  "dex": 0, "int": 0, "fth": 0 } },
+{ "name": "Large Leather Shield",     "category": "Standard Shield", "req": { "str": 6,  "dex": 0, "int": 0, "fth": 0 } },
+{ "name": "Heater Shield",            "category": "Standard Shield", "req": { "str": 8,  "dex": 0, "int": 0, "fth": 0 } },
+{ "name": "Knight Shield",            "category": "Standard Shield", "req": { "str": 12, "dex": 0, "int": 0, "fth": 0 } },
+
+{ "name": "Tower Kite Shield",        "category": "Standard Shield", "req": { "str": 12, "dex": 0, "int": 0, "fth": 0 } },
+{ "name": "Caduceus Kite Shield",     "category": "Standard Shield", "req": { "str": 12, "dex": 0, "int": 0, "fth": 0 } },
+{ "name": "Hollow Soldier Shield",    "category": "Standard Shield", "req": { "str": 10, "dex": 0, "int": 0, "fth": 0 } },
+{ "name": "Balder Shield",            "category": "Standard Shield", "req": { "str": 12, "dex": 0, "int": 0, "fth": 0 } },
+{ "name": "Sunlight Shield",          "category": "Standard Shield", "req": { "str": 12, "dex": 0, "int": 0, "fth": 0 } },
+{ "name": "Iron Round Shield",        "category": "Standard Shield", "req": { "str": 10, "dex": 0, "int": 0, "fth": 0 } },
+
+{ "name": "Silver Knight Shield",     "category": "Standard Shield", "req": { "str": 16, "dex": 0, "int": 0, "fth": 0 } },
+{ "name": "Black Knight Shield",      "category": "Standard Shield", "req": { "str": 16, "dex": 0, "int": 0, "fth": 0 } },
+{ "name": "Pierce Shield",            "category": "Standard Shield", "req": { "str": 12, "dex": 0, "int": 0, "fth": 0 } },
+{ "name": "Spiked Shield",            "category": "Standard Shield", "req": { "str": 12, "dex": 0, "int": 0, "fth": 0 } },
+{ "name": "Crest Shield",             "category": "Standard Shield", "req": { "str": 10, "dex": 0, "int": 0, "fth": 0 } },
+{ "name": "Dragon Crest Shield",      "category": "Standard Shield", "req": { "str": 10, "dex": 0, "int": 0, "fth": 0 } },
+
+{ "name": "Grass Crest Shield",       "category": "Standard Shield", "req": { "str": 10, "dex": 0, "int": 0, "fth": 0 } },
+{ "name": "Spider Shield",            "category": "Standard Shield", "req": { "str": 10, "dex": 0, "int": 0, "fth": 0 } },
+{ "name": "Bloodshield",              "category": "Standard Shield", "req": { "str": 10, "dex": 0, "int": 0, "fth": 0 } },
+{ "name": "Sanctus",                  "category": "Standard Shield", "req": { "str": 16, "dex": 0, "int": 0, "fth": 0 } },
+{ "name": "Crystal Shield",           "category": "Standard Shield", "req": { "str": 14, "dex": 0, "int": 0, "fth": 0 } },
+
+{ "name": "Bonewheel Shield",           "category": "Greatshield", "req": { "str": 30, "dex": 0, "int": 0, "fth": 0 }, "twoHandRule": false },
+{ "name": "Tower Shield",               "category": "Greatshield", "req": { "str": 30, "dex": 0, "int": 0, "fth": 0 }, "twoHandRule": false },
+{ "name": "Stone Greatshield",          "category": "Greatshield", "req": { "str": 38, "dex": 0, "int": 0, "fth": 0 }, "twoHandRule": false },
+{ "name": "Eagle Shield",               "category": "Greatshield", "req": { "str": 16, "dex": 0, "int": 0, "fth": 0 }, "twoHandRule": false },
+{ "name": "Black Iron Greatshield",     "category": "Greatshield", "req": { "str": 34, "dex": 0, "int": 0, "fth": 0 }, "twoHandRule": false },
+{ "name": "Havel's Greatshield",        "category": "Greatshield", "req": { "str": 50, "dex": 0, "int": 0, "fth": 0 }, "twoHandRule": false },
+{ "name": "Greatshield of Artorias",    "category": "Greatshield", "req": { "str": 34, "dex": 0, "int": 0, "fth": 0 }, "twoHandRule": false },
+{ "name": "Giant Shield",               "category": "Greatshield", "req": { "str": 36, "dex": 0, "int": 0, "fth": 0 }, "twoHandRule": false },
+{ "name": "Cleansing Greatshield",      "category": "Greatshield", "req": { "str": 31, "dex": 0, "int": 0, "fth": 0 }, "twoHandRule": false },
+
+{ "name": "Soul Arrow",                 "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 10, "fth": 0 } },
+{ "name": "Great Soul Arrow",           "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 14, "fth": 0 } },
+{ "name": "Heavy Soul Arrow",           "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 12, "fth": 0 } },
+{ "name": "Great Heavy Soul Arrow",     "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 16, "fth": 0 } },
+{ "name": "Homing Soulmass",            "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 20, "fth": 0 } },
+{ "name": "Homing Crystal Soulmass",    "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 24, "fth": 0 } },
+{ "name": "Soul Spear",                 "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 36, "fth": 0 } },
+{ "name": "Crystal Soul Spear",         "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 44, "fth": 0 } },
+{ "name": "White Dragon Breath",        "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 50, "fth": 0 } },
+
+{ "name": "Magic Weapon",               "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 10, "fth": 0 } },
+{ "name": "Great Magic Weapon",         "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 15, "fth": 0 } },
+{ "name": "Crystal Magic Weapon",       "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 25, "fth": 0 } },
+
+{ "name": "Magic Shield",               "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 10, "fth": 0 } },
+{ "name": "Strong Magic Shield",        "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 15, "fth": 0 } },
+
+{ "name": "Aural Decoy",                "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 10, "fth": 0 } },
+{ "name": "Hush",                       "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 15, "fth": 0 } },
+{ "name": "Cast Light",                 "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 14, "fth": 0 } },
+{ "name": "Fall Control",               "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 15, "fth": 0 } },
+{ "name": "Chameleon",                  "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 14, "fth": 0 } },
+{ "name": "Hidden Body",                "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 15, "fth": 0 } },
+{ "name": "Hidden Weapon",              "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 14, "fth": 0 } },
+{ "name": "Repair",                     "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 10, "fth": 0 } },
+{ "name": "Remedy",                     "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 12, "fth": 0 } },
+{ "name": "Resist Curse",               "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 16,  "fth": 0 } },
+
+{ "name": "Dark Orb",                   "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 12, "fth": 0 } },
+{ "name": "Dark Bead",                  "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 16, "fth": 0 } },
+{ "name": "Dark Fog",                   "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 15, "fth": 0 } },
+{ "name": "Pursuers",                   "category": "Sorcery", "req": { "str": 0, "dex": 0, "int": 32, "fth": 0 } },
+
+{ "name": "Heal",                        "category": "Miracle", "req": { "str": 0, "dex": 0, "int": 0,  "fth": 12 } },
+{ "name": "Great Heal Excerpt",          "category": "Miracle", "req": { "str": 0, "dex": 0, "int": 0,  "fth": 14 } },
+{ "name": "Great Heal",                  "category": "Miracle", "req": { "str": 0, "dex": 0, "int": 0,  "fth": 24 } },
+{ "name": "Soothing Sunlight",           "category": "Miracle", "req": { "str": 0, "dex": 0, "int": 0,  "fth": 48 } },
+{ "name": "Replenishment",               "category": "Miracle", "req": { "str": 0, "dex": 0, "int": 0,  "fth": 12 } },
+{ "name": "Bountiful Sunlight",          "category": "Miracle", "req": { "str": 0, "dex": 0, "int": 0,  "fth": 24 } },
+
+{ "name": "Force",                       "category": "Miracle", "req": { "str": 0, "dex": 0, "int": 0,  "fth": 12 } },
+{ "name": "Emit Force",                  "category": "Miracle", "req": { "str": 0, "dex": 0, "int": 0,  "fth": 12 } },
+{ "name": "Wrath of the Gods",           "category": "Miracle", "req": { "str": 0, "dex": 0, "int": 0,  "fth": 28 } },
+
+{ "name": "Lightning Spear",             "category": "Miracle", "req": { "str": 0, "dex": 0, "int": 0,  "fth": 20 } },
+{ "name": "Great Lightning Spear",       "category": "Miracle", "req": { "str": 0, "dex": 0, "int": 0,  "fth": 30 } },
+{ "name": "Sunlight Spear",              "category": "Miracle", "req": { "str": 0, "dex": 0, "int": 0,  "fth": 50 } },
+
+{ "name": "Seek Guidance",               "category": "Miracle", "req": { "str": 0, "dex": 0, "int": 0,  "fth": 12 } },
+{ "name": "Homeward",                    "category": "Miracle", "req": { "str": 0, "dex": 0, "int": 0,  "fth": 18 } },
+{ "name": "Tranquil Walk of Peace",      "category": "Miracle", "req": { "str": 0, "dex": 0, "int": 0,  "fth": 18 } },
+{ "name": "Karmic Justice",              "category": "Miracle", "req": { "str": 0, "dex": 0, "int": 0,  "fth": 20 } },
+{ "name": "Magic Barrier",               "category": "Miracle", "req": { "str": 0, "dex": 0, "int": 0,  "fth": 15 } },
+{ "name": "Great Magic Barrier",         "category": "Miracle", "req": { "str": 0, "dex": 0, "int": 0,  "fth": 24 } },
+{ "name": "Vow of Silence",              "category": "Miracle", "req": { "str": 0, "dex": 0, "int": 0,  "fth": 23 } },
+
+{ "name": "Sunlight Blade",              "category": "Miracle", "req": { "str": 0, "dex": 0, "int": 0,  "fth": 30 } },
+{ "name": "Darkmoon Blade",              "category": "Miracle", "req": { "str": 0, "dex": 0, "int": 0,  "fth": 30 } },
+
+{ "name": "Gravelord Sword Dance",       "category": "Miracle", "req": { "str": 0, "dex": 0, "int": 0,  "fth": 0 } },
+{ "name": "Gravelord Greatsword Dance",  "category": "Miracle", "req": { "str": 0, "dex": 0, "int": 0,  "fth": 0 } }
+]
+
+
+
+
+
+
+
+
+
+
+

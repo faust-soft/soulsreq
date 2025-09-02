@@ -1,0 +1,68 @@
+[
+  { "name": "Saw Cleaver",            "category": "Trick Weapon", "req": { "str": 8,  "skl": 7,  "bld": 0,  "arc": 0 } },
+  { "name": "Saw Spear",              "category": "Trick Weapon", "req": { "str": 7,  "skl": 8,  "bld": 0,  "arc": 0 } },
+  { "name": "Hunter Axe",             "category": "Trick Weapon", "req": { "str": 9,  "skl": 8,  "bld": 0,  "arc": 0 } },
+  { "name": "Threaded Cane",          "category": "Trick Weapon", "req": { "str": 7,  "skl": 9,  "bld": 0,  "arc": 0 } },
+
+  { "name": "Kirkhammer",             "category": "Trick Weapon", "req": { "str": 16, "skl": 10, "bld": 0,  "arc": 0 } },
+  { "name": "Ludwig's Holy Blade",    "category": "Trick Weapon", "req": { "str": 16, "skl": 12, "bld": 0,  "arc": 0 } },
+  { "name": "Holy Moonlight Sword",   "category": "Trick Weapon", "req": { "str": 16, "skl": 12, "bld": 0,  "arc": 14 } },
+
+  { "name": "Blade of Mercy",         "category": "Trick Weapon", "req": { "str": 7,  "skl": 11, "bld": 0,  "arc": 0 } },
+  { "name": "Burial Blade",           "category": "Trick Weapon", "req": { "str": 10, "skl": 12, "bld": 0,  "arc": 0 } },
+  { "name": "Reiterpallasch",         "category": "Trick Weapon", "req": { "str": 8,  "skl": 12, "bld": 10, "arc": 0 } },
+  { "name": "Rifle Spear",            "category": "Trick Weapon", "req": { "str": 10, "skl": 11, "bld": 9,  "arc": 0 } },
+  { "name": "Chikage",                "category": "Trick Weapon", "req": { "str": 10, "skl": 14, "bld": 12, "arc": 0 } },
+  { "name": "Simon's Bowblade",       "category": "Trick Weapon", "req": { "str": 8,  "skl": 15, "bld": 9,  "arc": 0 } },
+  { "name": "Rakuyo",                 "category": "Trick Weapon", "req": { "str": 10, "skl": 20, "bld": 0,  "arc": 0 } },
+
+  { "name": "Stake Driver",           "category": "Trick Weapon", "req": { "str": 18, "skl": 9,  "bld": 0,  "arc": 0 } },
+  { "name": "Tonitrus",               "category": "Trick Weapon", "req": { "str": 12, "skl": 8,  "bld": 0,  "arc": 0 } },
+  { "name": "Logarius' Wheel",        "category": "Trick Weapon", "req": { "str": 20, "skl": 12, "bld": 0,  "arc": 10 } },
+
+  { "name": "Amygdalan Arm",          "category": "Trick Weapon", "req": { "str": 17, "skl": 9,  "bld": 0,  "arc": 0 } },
+  { "name": "Beast Claw",             "category": "Trick Weapon", "req": { "str": 14, "skl": 12, "bld": 0,  "arc": 0 } },
+  { "name": "Beasthunter Saif",       "category": "Trick Weapon", "req": { "str": 9,  "skl": 11, "bld": 0,  "arc": 0 } },
+  { "name": "Beast Cutter",           "category": "Trick Weapon", "req": { "str": 11, "skl": 9,  "bld": 0,  "arc": 0 } },
+  { "name": "Boom Hammer",            "category": "Trick Weapon", "req": { "str": 14, "skl": 8,  "bld": 0,  "arc": 0 } },
+  { "name": "Whirligig Saw",          "category": "Trick Weapon", "req": { "str": 18, "skl": 12, "bld": 0,  "arc": 0 } },
+  { "name": "Church Pick",            "category": "Trick Weapon", "req": { "str": 9,  "skl": 14, "bld": 0,  "arc": 0 } },
+  { "name": "Bloodletter",            "category": "Trick Weapon", "req": { "str": 14, "skl": 6,  "bld": 16, "arc": 0 } },
+  { "name": "Kos Parasite",           "category": "Trick Weapon", "req": { "str": 0,  "skl": 0,  "bld": 0,  "arc": 20 } },
+
+  { "name": "Hunter Pistol",          "category": "Firearm",       "req": { "str": 7,  "skl": 9,  "bld": 5,  "arc": 0 } },
+  { "name": "Hunter Blunderbuss",     "category": "Firearm",       "req": { "str": 7,  "skl": 9,  "bld": 5,  "arc": 0 } },
+  { "name": "Repeating Pistol",       "category": "Firearm",       "req": { "str": 10, "skl": 11, "bld": 8,  "arc": 0 } },
+  { "name": "Ludwig's Rifle",         "category": "Firearm",       "req": { "str": 9,  "skl": 10, "bld": 9,  "arc": 0 } },
+  { "name": "Piercing Rifle",         "category": "Firearm",       "req": { "str": 9,  "skl": 10, "bld": 9,  "arc": 0 } },
+  { "name": "Evelyn",                 "category": "Firearm",       "req": { "str": 9,  "skl": 11, "bld": 18, "arc": 0 } },
+  { "name": "Cannon",                 "category": "Firearm",       "req": { "str": 30, "skl": 13, "bld": 0,  "arc": 0 } },
+  { "name": "Church Cannon",          "category": "Firearm",       "req": { "str": 27, "skl": 0,  "bld": 16, "arc": 0 } },
+  { "name": "Flamesprayer",           "category": "Firearm",       "req": { "str": 0,  "skl": 8,  "bld": 0,  "arc": 8 } },
+  { "name": "Rosmarinus",             "category": "Firearm",       "req": { "str": 0,  "skl": 8,  "bld": 0,  "arc": 8 } },
+  { "name": "Gatling Gun",            "category": "Firearm",       "req": { "str": 28, "skl": 12, "bld": 0,  "arc": 0 } },
+  {
+    "name": "Wooden Shield",
+    "category": "Shield",
+    "req": { "str": 8, "skl": 8, "bld": 0, "arc": 0 },
+    "twoHandRule": false
+  },
+  {
+    "name": "Loch Shield",
+    "category": "Shield",
+    "req": { "str": 11, "skl": 8, "bld": 0, "arc": 0 },
+    "twoHandRule": false
+  },
+  {
+    "name": "Torch",
+    "category": "Torch",
+    "req": { "str": 6, "skl": 0, "bld": 0, "arc": 0 },
+    "twoHandRule": false
+  },
+  {
+    "name": "Hunter's Torch",
+    "category": "Torch",
+    "req": { "str": 6, "skl": 0, "bld": 0, "arc": 0 },
+    "twoHandRule": false
+  }
+]

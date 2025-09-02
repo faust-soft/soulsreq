@@ -1,0 +1,3324 @@
+[
+  {
+    "id": "Bandit Axe",
+    "name": "Bandit Axe",
+    "category": "Axes",
+    "requirements": {
+      "str": 18,
+      "dex": 5,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Bound Hand Axe",
+    "name": "Bound Hand Axe",
+    "category": "Axes",
+    "requirements": {
+      "str": 15,
+      "dex": 7,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Butcher's Knife",
+    "name": "Butcher's Knife",
+    "category": "Axes",
+    "requirements": {
+      "str": 25,
+      "dex": 8,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Dragonslayer's Crescent Axe",
+    "name": "Dragonslayer's Crescent Axe",
+    "category": "Axes",
+    "requirements": {
+      "str": 18,
+      "dex": 12,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Gyrm Axe",
+    "name": "Gyrm Axe",
+    "category": "Axes",
+    "requirements": {
+      "str": 28,
+      "dex": 6,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Hand Axe (Dark Souls II)",
+    "name": "Hand Axe (Dark Souls II)",
+    "category": "Axes",
+    "requirements": {
+      "str": 9,
+      "dex": 3,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Infantry Axe",
+    "name": "Infantry Axe",
+    "category": "Axes",
+    "requirements": {
+      "str": 9,
+      "dex": 1,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Alonne Greatbow",
+    "name": "Alonne Greatbow",
+    "category": "Bows",
+    "requirements": {
+      "str": 20,
+      "dex": 25,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Bell Keeper Bow",
+    "name": "Bell Keeper Bow",
+    "category": "Bows",
+    "requirements": {
+      "str": 4,
+      "dex": 11,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Bow of Want",
+    "name": "Bow of Want",
+    "category": "Bows",
+    "requirements": {
+      "str": 9,
+      "dex": 20,
+      "int": 0,
+      "fth": 18
+    }
+  },
+  {
+    "id": "Composite Bow (Dark Souls II)",
+    "name": "Composite Bow (Dark Souls II)",
+    "category": "Bows",
+    "requirements": {
+      "str": 14,
+      "dex": 18,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Dragonrider Bow",
+    "name": "Dragonrider Bow",
+    "category": "Bows",
+    "requirements": {
+      "str": 20,
+      "dex": 18,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Hunter's Blackbow",
+    "name": "Hunter's Blackbow",
+    "category": "Bows",
+    "requirements": {
+      "str": 9,
+      "dex": 25,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Long Bow",
+    "name": "Long Bow",
+    "category": "Bows",
+    "requirements": {
+      "str": 10,
+      "dex": 16,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Possessed Armor Greatbow",
+    "name": "Possessed Armor Greatbow",
+    "category": "Bows",
+    "requirements": {
+      "str": 25,
+      "dex": 40,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Sea Bow",
+    "name": "Sea Bow",
+    "category": "Bows",
+    "requirements": {
+      "str": 16,
+      "dex": 15,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Short Bow (Dark Souls II)",
+    "name": "Short Bow (Dark Souls II)",
+    "category": "Bows",
+    "requirements": {
+      "str": 7,
+      "dex": 12,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Claws (weapon)",
+    "name": "Claws (weapon)",
+    "category": "Claws",
+    "requirements": {
+      "str": 9,
+      "dex": 10,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Malformed Claws",
+    "name": "Malformed Claws",
+    "category": "Claws",
+    "requirements": {
+      "str": 16,
+      "dex": 14,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Manikin Claws",
+    "name": "Manikin Claws",
+    "category": "Claws",
+    "requirements": {
+      "str": 9,
+      "dex": 18,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Work Hook",
+    "name": "Work Hook",
+    "category": "Claws",
+    "requirements": {
+      "str": 6,
+      "dex": 10,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Heavy Crossbow (Dark Souls II)",
+    "name": "Heavy Crossbow (Dark Souls II)",
+    "category": "Crossbows",
+    "requirements": {
+      "str": 20,
+      "dex": 6,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Light Crossbow (Dark Souls II)",
+    "name": "Light Crossbow (Dark Souls II)",
+    "category": "Crossbows",
+    "requirements": {
+      "str": 13,
+      "dex": 4,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Sanctum Crossbow",
+    "name": "Sanctum Crossbow",
+    "category": "Crossbows",
+    "requirements": {
+      "str": 13,
+      "dex": 4,
+      "int": 10,
+      "fth": 10
+    }
+  },
+  {
+    "id": "Sanctum Repeating Crossbow",
+    "name": "Sanctum Repeating Crossbow",
+    "category": "Crossbows",
+    "requirements": {
+      "str": 20,
+      "dex": 15,
+      "int": 10,
+      "fth": 10
+    }
+  },
+  {
+    "id": "Shield Crossbow",
+    "name": "Shield Crossbow",
+    "category": "Crossbows",
+    "requirements": {
+      "str": 19,
+      "dex": 10,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Arced Sword",
+    "name": "Arced Sword",
+    "category": "Curved Greatsword",
+    "requirements": {
+      "str": 26,
+      "dex": 16,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Curved Dragon Greatsword",
+    "name": "Curved Dragon Greatsword",
+    "category": "Curved Greatsword",
+    "requirements": {
+      "str": 30,
+      "dex": 18,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Curved Nil Greatsword",
+    "name": "Curved Nil Greatsword",
+    "category": "Curved Greatsword",
+    "requirements": {
+      "str": 28,
+      "dex": 26,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Murakumo (Dark Souls II)",
+    "name": "Murakumo (Dark Souls II)",
+    "category": "Curved Greatsword",
+    "requirements": {
+      "str": 20,
+      "dex": 20,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Eleum Loyce",
+    "name": "Eleum Loyce",
+    "category": "Curved Swords",
+    "requirements": {
+      "str": 18,
+      "dex": 27,
+      "int": 0,
+      "fth": 11
+    }
+  },
+  {
+    "id": "Falchion (Dark Souls II)",
+    "name": "Falchion (Dark Souls II)",
+    "category": "Curved Swords",
+    "requirements": {
+      "str": 9,
+      "dex": 13,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Manikin Sabre",
+    "name": "Manikin Sabre",
+    "category": "Curved Swords",
+    "requirements": {
+      "str": 6,
+      "dex": 19,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Melu Scimitar",
+    "name": "Melu Scimitar",
+    "category": "Curved Swords",
+    "requirements": {
+      "str": 12,
+      "dex": 9,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Monastery Scimitar",
+    "name": "Monastery Scimitar",
+    "category": "Curved Swords",
+    "requirements": {
+      "str": 9,
+      "dex": 22,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Red Rust Scimitar",
+    "name": "Red Rust Scimitar",
+    "category": "Curved Swords",
+    "requirements": {
+      "str": 18,
+      "dex": 15,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Scimitar (Dark Souls II)",
+    "name": "Scimitar (Dark Souls II)",
+    "category": "Curved Swords",
+    "requirements": {
+      "str": 7,
+      "dex": 16,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Shotel (Dark Souls II)",
+    "name": "Shotel (Dark Souls II)",
+    "category": "Curved Swords",
+    "requirements": {
+      "str": 10,
+      "dex": 16,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Spider Fang",
+    "name": "Spider Fang",
+    "category": "Curved Swords",
+    "requirements": {
+      "str": 10,
+      "dex": 25,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Warped Sword",
+    "name": "Warped Sword",
+    "category": "Curved Swords",
+    "requirements": {
+      "str": 15,
+      "dex": 25,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Bandit's Knife (Dark Souls II)",
+    "name": "Bandit's Knife (Dark Souls II)",
+    "category": "Daggers",
+    "requirements": {
+      "str": 3,
+      "dex": 11,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Black Flamestone Dagger",
+    "name": "Black Flamestone Dagger",
+    "category": "Daggers",
+    "requirements": {
+      "str": 10,
+      "dex": 12,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Blue Dagger",
+    "name": "Blue Dagger",
+    "category": "Daggers",
+    "requirements": {
+      "str": 6,
+      "dex": 14,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Broken Thief Sword",
+    "name": "Broken Thief Sword",
+    "category": "Daggers",
+    "requirements": {
+      "str": 9,
+      "dex": 5,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Dagger (Dark Souls II)",
+    "name": "Dagger (Dark Souls II)",
+    "category": "Daggers",
+    "requirements": {
+      "str": 2,
+      "dex": 6,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Manikin Knife",
+    "name": "Manikin Knife",
+    "category": "Daggers",
+    "requirements": {
+      "str": 6,
+      "dex": 14,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Mytha's Bent Blade",
+    "name": "Mytha's Bent Blade",
+    "category": "Daggers",
+    "requirements": {
+      "str": 5,
+      "dex": 20,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Parrying Dagger (Dark Souls II)",
+    "name": "Parrying Dagger (Dark Souls II)",
+    "category": "Daggers",
+    "requirements": {
+      "str": 4,
+      "dex": 9,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Retainer's Short Sword",
+    "name": "Retainer's Short Sword",
+    "category": "Daggers",
+    "requirements": {
+      "str": 5,
+      "dex": 15,
+      "int": 19,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Royal Dirk",
+    "name": "Royal Dirk",
+    "category": "Daggers",
+    "requirements": {
+      "str": 11,
+      "dex": 15,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Shadow Dagger",
+    "name": "Shadow Dagger",
+    "category": "Daggers",
+    "requirements": {
+      "str": 4,
+      "dex": 16,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Thief Dagger",
+    "name": "Thief Dagger",
+    "category": "Daggers",
+    "requirements": {
+      "str": 2,
+      "dex": 7,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Umbral Dagger",
+    "name": "Umbral Dagger",
+    "category": "Daggers",
+    "requirements": {
+      "str": 12,
+      "dex": 20,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Bone Fist",
+    "name": "Bone Fist",
+    "category": "Fist",
+    "requirements": {
+      "str": 15,
+      "dex": 30,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Caestus (Dark Souls II)",
+    "name": "Caestus (Dark Souls II)",
+    "category": "Fist",
+    "requirements": {
+      "str": 10,
+      "dex": 7,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Archdrake Mace",
+    "name": "Archdrake Mace",
+    "category": "Great Hammer",
+    "requirements": {
+      "str": 20,
+      "dex": 16,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Demon's Great Hammer (Dark Souls II)",
+    "name": "Demon's Great Hammer (Dark Souls II)",
+    "category": "Great Hammer",
+    "requirements": {
+      "str": 50,
+      "dex": 8,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Dragon Tooth (Dark Souls II)",
+    "name": "Dragon Tooth (Dark Souls II)",
+    "category": "Great Hammer",
+    "requirements": {
+      "str": 50,
+      "dex": 10,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Drakekeeper's Great Hammer",
+    "name": "Drakekeeper's Great Hammer",
+    "category": "Great Hammer",
+    "requirements": {
+      "str": 50,
+      "dex": 10,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Giant Warrior Club",
+    "name": "Giant Warrior Club",
+    "category": "Great Hammer",
+    "requirements": {
+      "str": 60,
+      "dex": 6,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Great Club (Dark Souls II)",
+    "name": "Great Club (Dark Souls II)",
+    "category": "Great Hammer",
+    "requirements": {
+      "str": 28,
+      "dex": 4,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Gyrm Great Hammer",
+    "name": "Gyrm Great Hammer",
+    "category": "Great Hammer",
+    "requirements": {
+      "str": 40,
+      "dex": 4,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Iron King Hammer",
+    "name": "Iron King Hammer",
+    "category": "Great Hammer",
+    "requirements": {
+      "str": 50,
+      "dex": 8,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Large Club (Dark Souls II)",
+    "name": "Large Club (Dark Souls II)",
+    "category": "Great Hammer",
+    "requirements": {
+      "str": 26,
+      "dex": 4,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Malformed Shell",
+    "name": "Malformed Shell",
+    "category": "Great Hammer",
+    "requirements": {
+      "str": 35,
+      "dex": 8,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Malformed Skull",
+    "name": "Malformed Skull",
+    "category": "Great Hammer",
+    "requirements": {
+      "str": 35,
+      "dex": 7,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Old Knight Hammer",
+    "name": "Old Knight Hammer",
+    "category": "Great Hammer",
+    "requirements": {
+      "str": 30,
+      "dex": 6,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Pickaxe (Dark Souls II)",
+    "name": "Pickaxe (Dark Souls II)",
+    "category": "Great Hammer",
+    "requirements": {
+      "str": 22,
+      "dex": 8,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Sacred Chime Hammer",
+    "name": "Sacred Chime Hammer",
+    "category": "Great Hammer",
+    "requirements": {
+      "str": 40,
+      "dex": 12,
+      "int": 12,
+      "fth": 12
+    }
+  },
+  {
+    "id": "Sanctum Mace",
+    "name": "Sanctum Mace",
+    "category": "Great Hammer",
+    "requirements": {
+      "str": 35,
+      "dex": 6,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Smelter Hammer",
+    "name": "Smelter Hammer",
+    "category": "Great Hammer",
+    "requirements": {
+      "str": 70,
+      "dex": 6,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Bandit Greataxe",
+    "name": "Bandit Greataxe",
+    "category": "Greataxe",
+    "requirements": {
+      "str": 28,
+      "dex": 8,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Black Dragon Greataxe",
+    "name": "Black Dragon Greataxe",
+    "category": "Greataxe",
+    "requirements": {
+      "str": 35,
+      "dex": 15,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Black Knight Greataxe (Dark Souls II)",
+    "name": "Black Knight Greataxe (Dark Souls II)",
+    "category": "Greataxe",
+    "requirements": {
+      "str": 40,
+      "dex": 18,
+      "int": 8,
+      "fth": 10
+    }
+  },
+  {
+    "id": "Crescent Axe (Dark Souls II)",
+    "name": "Crescent Axe (Dark Souls II)",
+    "category": "Greataxe",
+    "requirements": {
+      "str": 25,
+      "dex": 14,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Drakekeeper's Greataxe",
+    "name": "Drakekeeper's Greataxe",
+    "category": "Greataxe",
+    "requirements": {
+      "str": 40,
+      "dex": 14,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Giant Stone Axe",
+    "name": "Giant Stone Axe",
+    "category": "Greataxe",
+    "requirements": {
+      "str": 45,
+      "dex": 8,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Greataxe (Dark Souls II)",
+    "name": "Greataxe (Dark Souls II)",
+    "category": "Greataxe",
+    "requirements": {
+      "str": 32,
+      "dex": 10,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Gyrm Greataxe",
+    "name": "Gyrm Greataxe",
+    "category": "Greataxe",
+    "requirements": {
+      "str": 50,
+      "dex": 8,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Lion Greataxe",
+    "name": "Lion Greataxe",
+    "category": "Greataxe",
+    "requirements": {
+      "str": 30,
+      "dex": 8,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Alonne Greatbow",
+    "name": "Alonne Greatbow",
+    "category": "Greatbow",
+    "requirements": {
+      "str": 20,
+      "dex": 25,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Dragonslayer Greatbow (Dark Souls II)",
+    "name": "Dragonslayer Greatbow (Dark Souls II)",
+    "category": "Greatbow",
+    "requirements": {
+      "str": 30,
+      "dex": 20,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Possessed Armor Greatbow",
+    "name": "Possessed Armor Greatbow",
+    "category": "Greatbow",
+    "requirements": {
+      "str": 25,
+      "dex": 40,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Twin-headed Greatbow",
+    "name": "Twin-headed Greatbow",
+    "category": "Greatbow",
+    "requirements": {
+      "str": 45,
+      "dex": 15,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Dragonrider Greatshield",
+    "name": "Dragonrider Greatshield",
+    "category": "Greatshields",
+    "requirements": {
+      "str": 35,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Drakekeeper's Greatshield",
+    "name": "Drakekeeper's Greatshield",
+    "category": "Greatshields",
+    "requirements": {
+      "str": 37,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Greatshield of Glory",
+    "name": "Greatshield of Glory",
+    "category": "Greatshields",
+    "requirements": {
+      "str": 35,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Gyrm Greatshield",
+    "name": "Gyrm Greatshield",
+    "category": "Greatshields",
+    "requirements": {
+      "str": 32,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Havel's Greatshield (Dark Souls II)",
+    "name": "Havel's Greatshield (Dark Souls II)",
+    "category": "Greatshields",
+    "requirements": {
+      "str": 45,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Mastodon Greatshield",
+    "name": "Mastodon Greatshield",
+    "category": "Greatshields",
+    "requirements": {
+      "str": 30,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Old Knight Greatshield",
+    "name": "Old Knight Greatshield",
+    "category": "Greatshields",
+    "requirements": {
+      "str": 28,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Orma's Greatshield",
+    "name": "Orma's Greatshield",
+    "category": "Greatshields",
+    "requirements": {
+      "str": 33,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Pate's Shield",
+    "name": "Pate's Shield",
+    "category": "Greatshields",
+    "requirements": {
+      "str": 25,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Pursuer's Greatshield",
+    "name": "Pursuer's Greatshield",
+    "category": "Greatshields",
+    "requirements": {
+      "str": 38,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Rebel's Greatshield",
+    "name": "Rebel's Greatshield",
+    "category": "Greatshields",
+    "requirements": {
+      "str": 29,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Reeve's Greatshield",
+    "name": "Reeve's Greatshield",
+    "category": "Greatshields",
+    "requirements": {
+      "str": 33,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Tower Shield (Dark Souls II)",
+    "name": "Tower Shield (Dark Souls II)",
+    "category": "Greatshields",
+    "requirements": {
+      "str": 30,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Twin Dragon Greatshield",
+    "name": "Twin Dragon Greatshield",
+    "category": "Greatshields",
+    "requirements": {
+      "str": 20,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Wicked Eye Greatshield",
+    "name": "Wicked Eye Greatshield",
+    "category": "Greatshields",
+    "requirements": {
+      "str": 31,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Bastard Sword (Dark Souls II)",
+    "name": "Bastard Sword (Dark Souls II)",
+    "category": "Greatswords",
+    "requirements": {
+      "str": 20,
+      "dex": 11,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Black Dragon Greatsword",
+    "name": "Black Dragon Greatsword",
+    "category": "Greatswords",
+    "requirements": {
+      "str": 25,
+      "dex": 16,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Black Knight Greatsword (Dark Souls II)",
+    "name": "Black Knight Greatsword (Dark Souls II)",
+    "category": "Greatswords",
+    "requirements": {
+      "str": 28,
+      "dex": 20,
+      "int": 8,
+      "fth": 12
+    }
+  },
+  {
+    "id": "Bluemoon Greatsword",
+    "name": "Bluemoon Greatsword",
+    "category": "Greatswords",
+    "requirements": {
+      "str": 28,
+      "dex": 10,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Charred Loyce Greatsword",
+    "name": "Charred Loyce Greatsword",
+    "category": "Greatswords",
+    "requirements": {
+      "str": 25,
+      "dex": 28,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Claymore (Dark Souls II)",
+    "name": "Claymore (Dark Souls II)",
+    "category": "Greatswords",
+    "requirements": {
+      "str": 20,
+      "dex": 13,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Defender Greatsword",
+    "name": "Defender Greatsword",
+    "category": "Greatswords",
+    "requirements": {
+      "str": 20,
+      "dex": 12,
+      "int": 0,
+      "fth": 15
+    }
+  },
+  {
+    "id": "Drakeblood Greatsword",
+    "name": "Drakeblood Greatsword",
+    "category": "Greatswords",
+    "requirements": {
+      "str": 20,
+      "dex": 18,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Drangleic Sword",
+    "name": "Drangleic Sword",
+    "category": "Greatswords",
+    "requirements": {
+      "str": 25,
+      "dex": 20,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Flamberge (Dark Souls II)",
+    "name": "Flamberge (Dark Souls II)",
+    "category": "Greatswords",
+    "requirements": {
+      "str": 16,
+      "dex": 15,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Greatsword of the Forlorn",
+    "name": "Greatsword of the Forlorn",
+    "category": "Greatswords",
+    "requirements": {
+      "str": 20,
+      "dex": 15,
+      "int": 10,
+      "fth": 10
+    }
+  },
+  {
+    "id": "Key to the Embedded",
+    "name": "Key to the Embedded",
+    "category": "Greatswords",
+    "requirements": {
+      "str": 15,
+      "dex": 20,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Loyce Greatsword",
+    "name": "Loyce Greatsword",
+    "category": "Greatswords",
+    "requirements": {
+      "str": 25,
+      "dex": 28,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Majestic Greatsword",
+    "name": "Majestic Greatsword",
+    "category": "Greatswords",
+    "requirements": {
+      "str": 25,
+      "dex": 25,
+      "int": 20,
+      "fth": 20
+    }
+  },
+  {
+    "id": "Mastodon Greatsword",
+    "name": "Mastodon Greatsword",
+    "category": "Greatswords",
+    "requirements": {
+      "str": 30,
+      "dex": 12,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Mirrah Greatsword",
+    "name": "Mirrah Greatsword",
+    "category": "Greatswords",
+    "requirements": {
+      "str": 16,
+      "dex": 20,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Moonlight Greatsword (Dark Souls II)",
+    "name": "Moonlight Greatsword (Dark Souls II)",
+    "category": "Greatswords",
+    "requirements": {
+      "str": 18,
+      "dex": 18,
+      "int": 18,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Old Knight Greatsword",
+    "name": "Old Knight Greatsword",
+    "category": "Greatswords",
+    "requirements": {
+      "str": 17,
+      "dex": 12,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Old Mirrah Greatsword",
+    "name": "Old Mirrah Greatsword",
+    "category": "Greatswords",
+    "requirements": {
+      "str": 16,
+      "dex": 33,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Royal Greatsword",
+    "name": "Royal Greatsword",
+    "category": "Greatswords",
+    "requirements": {
+      "str": 20,
+      "dex": 15,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Ruler's Sword",
+    "name": "Ruler's Sword",
+    "category": "Greatswords",
+    "requirements": {
+      "str": 20,
+      "dex": 20,
+      "int": 16,
+      "fth": 16
+    }
+  },
+  {
+    "id": "Thorned Greatsword",
+    "name": "Thorned Greatsword",
+    "category": "Greatswords",
+    "requirements": {
+      "str": 20,
+      "dex": 15,
+      "int": 0,
+      "fth": 14
+    }
+  },
+  {
+    "id": "Watcher Greatsword",
+    "name": "Watcher Greatsword",
+    "category": "Greatswords",
+    "requirements": {
+      "str": 18,
+      "dex": 16,
+      "int": 15,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Black Knight Halberd (Dark Souls II)",
+    "name": "Black Knight Halberd (Dark Souls II)",
+    "category": "Halberds",
+    "requirements": {
+      "str": 28,
+      "dex": 20,
+      "int": 8,
+      "fth": 12
+    }
+  },
+  {
+    "id": "Blue Knight's Halberd",
+    "name": "Blue Knight's Halberd",
+    "category": "Halberds",
+    "requirements": {
+      "str": 18,
+      "dex": 20,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Dragonrider's Halberd",
+    "name": "Dragonrider's Halberd",
+    "category": "Halberds",
+    "requirements": {
+      "str": 18,
+      "dex": 17,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Halberd (Dark Souls II)",
+    "name": "Halberd (Dark Souls II)",
+    "category": "Halberds",
+    "requirements": {
+      "str": 20,
+      "dex": 14,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Helix Halberd",
+    "name": "Helix Halberd",
+    "category": "Halberds",
+    "requirements": {
+      "str": 16,
+      "dex": 20,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Mastodon Halberd",
+    "name": "Mastodon Halberd",
+    "category": "Halberds",
+    "requirements": {
+      "str": 26,
+      "dex": 15,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Old Knight Halberd",
+    "name": "Old Knight Halberd",
+    "category": "Halberds",
+    "requirements": {
+      "str": 16,
+      "dex": 20,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Roaring Halberd",
+    "name": "Roaring Halberd",
+    "category": "Halberds",
+    "requirements": {
+      "str": 16,
+      "dex": 12,
+      "int": 12,
+      "fth": 12
+    }
+  },
+  {
+    "id": "Santier's Spear",
+    "name": "Santier's Spear",
+    "category": "Halberds",
+    "requirements": {
+      "str": 20,
+      "dex": 22,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Syan's Halberd",
+    "name": "Syan's Halberd",
+    "category": "Halberds",
+    "requirements": {
+      "str": 20,
+      "dex": 25,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Wrathful Axe",
+    "name": "Wrathful Axe",
+    "category": "Halberds",
+    "requirements": {
+      "str": 20,
+      "dex": 22,
+      "int": 0,
+      "fth": 28
+    }
+  },
+  {
+    "id": "Aldia Hammer",
+    "name": "Aldia Hammer",
+    "category": "Hammers",
+    "requirements": {
+      "str": 18,
+      "dex": 16,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Barbed Club",
+    "name": "Barbed Club",
+    "category": "Hammers",
+    "requirements": {
+      "str": 20,
+      "dex": 18,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Black Dragon Warpick",
+    "name": "Black Dragon Warpick",
+    "category": "Hammers",
+    "requirements": {
+      "str": 20,
+      "dex": 15,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Blacksmith's Hammer",
+    "name": "Blacksmith's Hammer",
+    "category": "Hammers",
+    "requirements": {
+      "str": 15,
+      "dex": 7,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Club (Dark Souls II)",
+    "name": "Club (Dark Souls II)",
+    "category": "Hammers",
+    "requirements": {
+      "str": 12,
+      "dex": 3,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Craftsman's Hammer",
+    "name": "Craftsman's Hammer",
+    "category": "Hammers",
+    "requirements": {
+      "str": 20,
+      "dex": 10,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Handmaid's Ladle",
+    "name": "Handmaid's Ladle",
+    "category": "Hammers",
+    "requirements": {
+      "str": 6,
+      "dex": 5,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Homunculus Mace",
+    "name": "Homunculus Mace",
+    "category": "Hammers",
+    "requirements": {
+      "str": 14,
+      "dex": 9,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Mace (Dark Souls II)",
+    "name": "Mace (Dark Souls II)",
+    "category": "Hammers",
+    "requirements": {
+      "str": 12,
+      "dex": 5,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Mace of the Insolent",
+    "name": "Mace of the Insolent",
+    "category": "Hammers",
+    "requirements": {
+      "str": 15,
+      "dex": 10,
+      "int": 0,
+      "fth": 10
+    }
+  },
+  {
+    "id": "Morning Star (Dark Souls II)",
+    "name": "Morning Star (Dark Souls II)",
+    "category": "Hammers",
+    "requirements": {
+      "str": 15,
+      "dex": 7,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Reinforced Club (Dark Souls II)",
+    "name": "Reinforced Club (Dark Souls II)",
+    "category": "Hammers",
+    "requirements": {
+      "str": 16,
+      "dex": 3,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Berserker Blade",
+    "name": "Berserker Blade",
+    "category": "Katanas",
+    "requirements": {
+      "str": 18,
+      "dex": 18,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Bewitched Alonne Sword",
+    "name": "Bewitched Alonne Sword",
+    "category": "Katanas",
+    "requirements": {
+      "str": 22,
+      "dex": 30,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Blacksteel Katana",
+    "name": "Blacksteel Katana",
+    "category": "Katanas",
+    "requirements": {
+      "str": 14,
+      "dex": 25,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Chaos Blade (Dark Souls II)",
+    "name": "Chaos Blade (Dark Souls II)",
+    "category": "Katanas",
+    "requirements": {
+      "str": 12,
+      "dex": 25,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Darkdrift",
+    "name": "Darkdrift",
+    "category": "Katanas",
+    "requirements": {
+      "str": 12,
+      "dex": 28,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Manslayer",
+    "name": "Manslayer",
+    "category": "Katanas",
+    "requirements": {
+      "str": 11,
+      "dex": 18,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Uchigatana (Dark Souls II)",
+    "name": "Uchigatana (Dark Souls II)",
+    "category": "Katanas",
+    "requirements": {
+      "str": 10,
+      "dex": 16,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Washing Pole (Dark Souls II)",
+    "name": "Washing Pole (Dark Souls II)",
+    "category": "Katanas",
+    "requirements": {
+      "str": 18,
+      "dex": 20,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Chariot Lance",
+    "name": "Chariot Lance",
+    "category": "Lances",
+    "requirements": {
+      "str": 30,
+      "dex": 18,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Grand Lance",
+    "name": "Grand Lance",
+    "category": "Lances",
+    "requirements": {
+      "str": 22,
+      "dex": 18,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Heide Greatlance",
+    "name": "Heide Greatlance",
+    "category": "Lances",
+    "requirements": {
+      "str": 20,
+      "dex": 16,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Heide Lance",
+    "name": "Heide Lance",
+    "category": "Lances",
+    "requirements": {
+      "str": 18,
+      "dex": 12,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Rampart Golem Lance",
+    "name": "Rampart Golem Lance",
+    "category": "Lances",
+    "requirements": {
+      "str": 35,
+      "dex": 20,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Silverblack Sickle",
+    "name": "Silverblack Sickle",
+    "category": "Reapers",
+    "requirements": {
+      "str": 15,
+      "dex": 10,
+      "int": 8,
+      "fth": 8
+    }
+  },
+  {
+    "id": "Bell Keeper Shield",
+    "name": "Bell Keeper Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 7,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Benhart's Parma",
+    "name": "Benhart's Parma",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 7,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Black Dragon Shield",
+    "name": "Black Dragon Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 15,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Black Flamestone Parma",
+    "name": "Black Flamestone Parma",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 10,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Blossom Kite Shield",
+    "name": "Blossom Kite Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 12,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Blue Wooden Shield",
+    "name": "Blue Wooden Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 6,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Bound Wooden Shield",
+    "name": "Bound Wooden Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 11,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Buckler (Dark Souls II)",
+    "name": "Buckler (Dark Souls II)",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 7,
+      "dex": 13,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Chaos Shield",
+    "name": "Chaos Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 10,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Charred Loyce Shield",
+    "name": "Charred Loyce Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 12,
+      "dex": 16,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Cleric's Parma",
+    "name": "Cleric's Parma",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 7,
+      "dex": 7,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Cleric's Small Shield",
+    "name": "Cleric's Small Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 12,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Crimson Parma",
+    "name": "Crimson Parma",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 6,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Cursed Bone Shield",
+    "name": "Cursed Bone Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 12,
+      "dex": 12,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Defender's Shield",
+    "name": "Defender's Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 15,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Drakekeeper's Shield",
+    "name": "Drakekeeper's Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 17,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Drangleic Shield",
+    "name": "Drangleic Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 16,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Foot Soldier Shield",
+    "name": "Foot Soldier Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 6,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Golden Falcon Shield",
+    "name": "Golden Falcon Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 7,
+      "dex": 10,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Golden Wing Shield",
+    "name": "Golden Wing Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 12,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Hollow Soldier Shield (Dark Souls II)",
+    "name": "Hollow Soldier Shield (Dark Souls II)",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Homunculus Wooden Shield",
+    "name": "Homunculus Wooden Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Iron Parma",
+    "name": "Iron Parma",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 10,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "King's Shield",
+    "name": "King's Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 16,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Large Leather Shield (Dark Souls II)",
+    "name": "Large Leather Shield (Dark Souls II)",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 7,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Lion Clan Shield",
+    "name": "Lion Clan Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Llewellyn Shield",
+    "name": "Llewellyn Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 9,
+      "dex": 7,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Loyce Shield",
+    "name": "Loyce Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 12,
+      "dex": 15,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Magic Shield (shield)",
+    "name": "Magic Shield (shield)",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 14,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Manikin Shield",
+    "name": "Manikin Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 9,
+      "dex": 12,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Old Knight's Shield",
+    "name": "Old Knight's Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 24,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Phoenix Parma",
+    "name": "Phoenix Parma",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 9,
+      "dex": 10,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Porcine Shield",
+    "name": "Porcine Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 9,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Rampart Golem Shield",
+    "name": "Rampart Golem Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 19,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Red Rust Shield",
+    "name": "Red Rust Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 17,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Royal Kite Shield",
+    "name": "Royal Kite Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 12,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Sanctum Shield",
+    "name": "Sanctum Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 6,
+      "dex": 7,
+      "int": 18,
+      "fth": 18
+    }
+  },
+  {
+    "id": "Shield of the Insolent",
+    "name": "Shield of the Insolent",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 10,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Silver Eagle Kite Shield",
+    "name": "Silver Eagle Kite Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 10,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Silverblack Shield",
+    "name": "Silverblack Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 16,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Slumbering Dragon Shield",
+    "name": "Slumbering Dragon Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 14,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Small Leather Shield (Dark Souls II)",
+    "name": "Small Leather Shield (Dark Souls II)",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 5,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Spirit Tree Shield",
+    "name": "Spirit Tree Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 10,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Stone Parma",
+    "name": "Stone Parma",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 18,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Sunlight Parma",
+    "name": "Sunlight Parma",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 7,
+      "dex": 11,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Target Shield (Dark Souls II)",
+    "name": "Target Shield (Dark Souls II)",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 12,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Transgressor's Leather Shield",
+    "name": "Transgressor's Leather Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 7,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Varangian Shield",
+    "name": "Varangian Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 9,
+      "dex": 11,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Vessel Shield",
+    "name": "Vessel Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 20,
+      "dex": 17,
+      "int": 8,
+      "fth": 8
+    }
+  },
+  {
+    "id": "Watchdragon Parma",
+    "name": "Watchdragon Parma",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 10,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Watcher's Shield",
+    "name": "Watcher's Shield",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 11,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Wooden Shield (Dark Souls II)",
+    "name": "Wooden Shield (Dark Souls II)",
+    "category": "Small Shield",
+    "requirements": {
+      "str": 7,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Dragonslayer Spear (Dark Souls II)",
+    "name": "Dragonslayer Spear (Dark Souls II)",
+    "category": "Spears",
+    "requirements": {
+      "str": 16,
+      "dex": 25,
+      "int": 0,
+      "fth": 14
+    }
+  },
+  {
+    "id": "Heide Spear",
+    "name": "Heide Spear",
+    "category": "Spears",
+    "requirements": {
+      "str": 12,
+      "dex": 25,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Pate's Spear",
+    "name": "Pate's Spear",
+    "category": "Spears",
+    "requirements": {
+      "str": 11,
+      "dex": 27,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Silverblack Spear",
+    "name": "Silverblack Spear",
+    "category": "Spears",
+    "requirements": {
+      "str": 9,
+      "dex": 16,
+      "int": 8,
+      "fth": 8
+    }
+  },
+  {
+    "id": "Spear (Dark Souls II)",
+    "name": "Spear (Dark Souls II)",
+    "category": "Spears",
+    "requirements": {
+      "str": 9,
+      "dex": 12,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Spitfire Spear",
+    "name": "Spitfire Spear",
+    "category": "Spears",
+    "requirements": {
+      "str": 10,
+      "dex": 18,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Stone Soldier Spear",
+    "name": "Stone Soldier Spear",
+    "category": "Spears",
+    "requirements": {
+      "str": 16,
+      "dex": 20,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Winged Spear (Dark Souls II)",
+    "name": "Winged Spear (Dark Souls II)",
+    "category": "Spears",
+    "requirements": {
+      "str": 11,
+      "dex": 18,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Yorgh's Spear",
+    "name": "Yorgh's Spear",
+    "category": "Spears",
+    "requirements": {
+      "str": 30,
+      "dex": 25,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Archdrake Shield",
+    "name": "Archdrake Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 14,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Bell Keeper Shield",
+    "name": "Bell Keeper Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 7,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Black Dragon Shield",
+    "name": "Black Dragon Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 15,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Black Flamestone Parma",
+    "name": "Black Flamestone Parma",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 10,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Blossom Kite Shield",
+    "name": "Blossom Kite Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 12,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Blue Wooden Shield",
+    "name": "Blue Wooden Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 6,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Bone Shield",
+    "name": "Bone Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 8,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Chaos Shield",
+    "name": "Chaos Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 10,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Charred Loyce Shield",
+    "name": "Charred Loyce Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 12,
+      "dex": 16,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Defender's Shield",
+    "name": "Defender's Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 15,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Drakekeeper's Shield",
+    "name": "Drakekeeper's Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 17,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Drangleic Shield",
+    "name": "Drangleic Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 16,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Golden Wing Shield",
+    "name": "Golden Wing Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 12,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Grand Spirit Tree Shield",
+    "name": "Grand Spirit Tree Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 10,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Hollow Soldier Shield (Dark Souls II)",
+    "name": "Hollow Soldier Shield (Dark Souls II)",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Homunculus Wooden Shield",
+    "name": "Homunculus Wooden Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "King's Shield",
+    "name": "King's Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 16,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Large Leather Shield (Dark Souls II)",
+    "name": "Large Leather Shield (Dark Souls II)",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 7,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Lion Clan Shield",
+    "name": "Lion Clan Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 8,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Loyce Shield",
+    "name": "Loyce Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 12,
+      "dex": 15,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Mirrah Shield",
+    "name": "Mirrah Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 12,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Moon Butterfly Shield",
+    "name": "Moon Butterfly Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 6,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Old Knight's Shield",
+    "name": "Old Knight's Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 24,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Porcine Shield",
+    "name": "Porcine Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 9,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Rampart Golem Shield",
+    "name": "Rampart Golem Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 19,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Red Rust Shield",
+    "name": "Red Rust Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 17,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Royal Kite Shield",
+    "name": "Royal Kite Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 12,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Shield of the Insolent",
+    "name": "Shield of the Insolent",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 10,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Silver Eagle Kite Shield",
+    "name": "Silver Eagle Kite Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 10,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Silverblack Shield",
+    "name": "Silverblack Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 16,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Spirit Tree Shield",
+    "name": "Spirit Tree Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 10,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Stone Parma",
+    "name": "Stone Parma",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 18,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Vessel Shield",
+    "name": "Vessel Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 20,
+      "dex": 17,
+      "int": 8,
+      "fth": 8
+    }
+  },
+  {
+    "id": "Watchdragon Parma",
+    "name": "Watchdragon Parma",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 10,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Wooden Shield (Dark Souls II)",
+    "name": "Wooden Shield (Dark Souls II)",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 7,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Yellow Quartz Shield",
+    "name": "Yellow Quartz Shield",
+    "category": "Standard Shield",
+    "requirements": {
+      "str": 12,
+      "dex": 0,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Ashen Warrior Sword",
+    "name": "Ashen Warrior Sword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 10,
+      "dex": 18,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Black Dragon Sword",
+    "name": "Black Dragon Sword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 20,
+      "dex": 15,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Blue Flame",
+    "name": "Blue Flame",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 13,
+      "dex": 15,
+      "int": 12,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Broadsword (Dark Souls II)",
+    "name": "Broadsword (Dark Souls II)",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 11,
+      "dex": 6,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Broken Straight Sword (Dark Souls II)",
+    "name": "Broken Straight Sword (Dark Souls II)",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 2,
+      "dex": 3,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Drakekeeper's Sword",
+    "name": "Drakekeeper's Sword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 16,
+      "dex": 8,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Foot Soldier Sword",
+    "name": "Foot Soldier Sword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 7,
+      "dex": 6,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Fume Sword",
+    "name": "Fume Sword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 15,
+      "dex": 22,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Heide Knight Sword",
+    "name": "Heide Knight Sword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 11,
+      "dex": 10,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Ivory Straight Sword",
+    "name": "Ivory Straight Sword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 6,
+      "dex": 40,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Longsword (Dark Souls II)",
+    "name": "Longsword (Dark Souls II)",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 10,
+      "dex": 9,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Possessed Armor Sword",
+    "name": "Possessed Armor Sword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 20,
+      "dex": 13,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Puzzling Stone Sword",
+    "name": "Puzzling Stone Sword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 7,
+      "dex": 6,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Red Rust Sword",
+    "name": "Red Rust Sword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 23,
+      "dex": 13,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Shortsword (Dark Souls II)",
+    "name": "Shortsword (Dark Souls II)",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 7,
+      "dex": 10,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Sun Sword",
+    "name": "Sun Sword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 15,
+      "dex": 13,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Varangian Sword",
+    "name": "Varangian Sword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 14,
+      "dex": 6,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Yellow Quartz Longsword",
+    "name": "Yellow Quartz Longsword",
+    "category": "Straight Sword",
+    "requirements": {
+      "str": 13,
+      "dex": 8,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Black Scorpion Stinger",
+    "name": "Black Scorpion Stinger",
+    "category": "Thrusting Sword",
+    "requirements": {
+      "str": 10,
+      "dex": 18,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Chaos Rapier",
+    "name": "Chaos Rapier",
+    "category": "Thrusting Sword",
+    "requirements": {
+      "str": 7,
+      "dex": 14,
+      "int": 13,
+      "fth": 13
+    }
+  },
+  {
+    "id": "Espada Ropera",
+    "name": "Espada Ropera",
+    "category": "Thrusting Sword",
+    "requirements": {
+      "str": 11,
+      "dex": 18,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Estoc (Dark Souls II)",
+    "name": "Estoc (Dark Souls II)",
+    "category": "Thrusting Sword",
+    "requirements": {
+      "str": 12,
+      "dex": 12,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Ice Rapier",
+    "name": "Ice Rapier",
+    "category": "Thrusting Sword",
+    "requirements": {
+      "str": 13,
+      "dex": 15,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Mail Breaker (Dark Souls II)",
+    "name": "Mail Breaker (Dark Souls II)",
+    "category": "Thrusting Sword",
+    "requirements": {
+      "str": 5,
+      "dex": 12,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Rapier (Dark Souls II)",
+    "name": "Rapier (Dark Souls II)",
+    "category": "Thrusting Sword",
+    "requirements": {
+      "str": 5,
+      "dex": 12,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Ricard's Rapier (Dark Souls II)",
+    "name": "Ricard's Rapier (Dark Souls II)",
+    "category": "Thrusting Sword",
+    "requirements": {
+      "str": 8,
+      "dex": 25,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Spider's Silk",
+    "name": "Spider's Silk",
+    "category": "Thrusting Sword",
+    "requirements": {
+      "str": 5,
+      "dex": 20,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Aged Smelter Sword",
+    "name": "Aged Smelter Sword",
+    "category": "Ultra Greatswords",
+    "requirements": {
+      "str": 40,
+      "dex": 10,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Black Knight Ultra Greatsword",
+    "name": "Black Knight Ultra Greatsword",
+    "category": "Ultra Greatswords",
+    "requirements": {
+      "str": 30,
+      "dex": 16,
+      "int": 0,
+      "fth": 13
+    }
+  },
+  {
+    "id": "Crypt Blacksword",
+    "name": "Crypt Blacksword",
+    "category": "Ultra Greatswords",
+    "requirements": {
+      "str": 40,
+      "dex": 10,
+      "int": 12,
+      "fth": 12
+    }
+  },
+  {
+    "id": "Drakekeeper's Ultra Greatsword",
+    "name": "Drakekeeper's Ultra Greatsword",
+    "category": "Ultra Greatswords",
+    "requirements": {
+      "str": 38,
+      "dex": 13,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Drakewing Ultra Greatsword",
+    "name": "Drakewing Ultra Greatsword",
+    "category": "Ultra Greatswords",
+    "requirements": {
+      "str": 20,
+      "dex": 18,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Fume Ultra Greatsword",
+    "name": "Fume Ultra Greatsword",
+    "category": "Ultra Greatswords",
+    "requirements": {
+      "str": 40,
+      "dex": 30,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Greatsword (Dark Souls II)",
+    "name": "Greatsword (Dark Souls II)",
+    "category": "Ultra Greatswords",
+    "requirements": {
+      "str": 28,
+      "dex": 10,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Ivory King Ultra Greatsword",
+    "name": "Ivory King Ultra Greatsword",
+    "category": "Ultra Greatswords",
+    "requirements": {
+      "str": 30,
+      "dex": 30,
+      "int": 8,
+      "fth": 0
+    }
+  },
+  {
+    "id": "King's Ultra Greatsword",
+    "name": "King's Ultra Greatsword",
+    "category": "Ultra Greatswords",
+    "requirements": {
+      "str": 50,
+      "dex": 10,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Lost Sinner's Sword",
+    "name": "Lost Sinner's Sword",
+    "category": "Ultra Greatswords",
+    "requirements": {
+      "str": 24,
+      "dex": 18,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Old Knight Ultra Greatsword",
+    "name": "Old Knight Ultra Greatsword",
+    "category": "Ultra Greatswords",
+    "requirements": {
+      "str": 24,
+      "dex": 10,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Pursuer's Ultra Greatsword",
+    "name": "Pursuer's Ultra Greatsword",
+    "category": "Ultra Greatswords",
+    "requirements": {
+      "str": 30,
+      "dex": 18,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Smelter Sword",
+    "name": "Smelter Sword",
+    "category": "Ultra Greatswords",
+    "requirements": {
+      "str": 40,
+      "dex": 10,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Zweihander (Dark Souls II)",
+    "name": "Zweihander (Dark Souls II)",
+    "category": "Ultra Greatswords",
+    "requirements": {
+      "str": 24,
+      "dex": 12,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Bloodied Whip",
+    "name": "Bloodied Whip",
+    "category": "Whips",
+    "requirements": {
+      "str": 10,
+      "dex": 15,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Notched Whip (Dark Souls II)",
+    "name": "Notched Whip (Dark Souls II)",
+    "category": "Whips",
+    "requirements": {
+      "str": 12,
+      "dex": 20,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Old Whip",
+    "name": "Old Whip",
+    "category": "Whips",
+    "requirements": {
+      "str": 7,
+      "dex": 20,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Spotted Whip",
+    "name": "Spotted Whip",
+    "category": "Whips",
+    "requirements": {
+      "str": 9,
+      "dex": 25,
+      "int": 0,
+      "fth": 0
+    }
+  },
+  {
+    "id": "Whip (Dark Souls II)",
+    "name": "Whip (Dark Souls II)",
+    "category": "Whips",
+    "requirements": {
+      "str": 6,
+      "dex": 17,
+      "int": 0,
+      "fth": 0
+    }
+  }
+]
